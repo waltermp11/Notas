@@ -18,4 +18,13 @@ Hay algunas que no son pagas --> suma a la hoja de vida.
 
 - leer primero y vamos desglozando las cosas!
 - 
+
+| HOLA | HOLA |                                           |     |     |
+| ---- | ---- | ----------------------------------------- | --- | --- |
+|      |      | ![[Pasted image 20260722173618.png\|331]] |     |     |
+|      |      |                                           |     |     |
+|      |      |                                           |     |     |
+|      |      |                                           |     |     |
+|      |      |                                           |     |     |
+
 ![[Pasted image 20260722115251.png|615]]
