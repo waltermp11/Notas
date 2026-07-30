@@ -2,5 +2,6 @@
   "baseFontSize": 17,
   "enabledCssSnippets": [
     "colores"
-  ]
+  ],
+  "cssTheme": "Things"
 }
