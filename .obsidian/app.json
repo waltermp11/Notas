@@ -3,5 +3,14 @@
   "tabSize": 2,
   "readableLineLength": false,
   "strictLineBreaks": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "newFileLocation": "root",
+  "newFileFolderPath": "imagenes",
+  "attachmentFolderPath": "imagenes",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
 }

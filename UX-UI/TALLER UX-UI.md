@@ -36,11 +36,16 @@
 
 ![[Pasted image 20260724111313.png|663]]
 
-## Links 
+## Links Recomendaciones
 
 - https://medium.com/@kshields/the-9-ux-best-practices-every-ux-designer-should-know-b61d4e1af9e7
 - https://medium.com/@ruben.calero97/optimiza-la-usabilidad-cinco-pr%C3%A1cticas-a-evitar-en-el-dise%C3%B1o-de-productos-digitales-79b349aed5b5
 - https://medium.com/unagi/c%C3%B3mo-mejorar-la-ux-de-tu-sistema-en-6-pasos-9e19c7e5de0b
+
+
+## Links de Paginas para Diseñar 
+- https://uifrommars.com/atomic-design-ventajas/
+- 
 
 ****
 # PRINCIPIOS DE ACCESIBILIDAD - UI ( USER INTERFACE)
@@ -64,3 +69,9 @@
 
 
 4. **No depender solo del color**
+
+**** 
+
+![[Pasted image 20260724112412.png]]
+
+

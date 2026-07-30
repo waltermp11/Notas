@@ -1,0 +1,155 @@
+/* ==========================================
+   ESTILOS DE EXPORTACIÓN A PDF CORREGIDOS
+   ========================================== */
+@media print {
+  /* 1. Definir tamaño de página A4/Carta con márgenes estándar */
+  @page {
+    size: A4;
+    margin: 15mm 15mm 15mm 15mm;
+  }
+
+  /* 2. Controlar estrictamente el tamaño global del texto */
+  html, body, .markdown-rendered, .print {
+    background-color: #1e1e1e !important;
+    color: #dcddde !important;
+    font-size: 10pt !important; /* <--- Controla el tamaño de letra general */
+    line-height: 1.5 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* 3. Escalar encabezados de forma proporcional */
+  .markdown-rendered h1 {
+    font-size: 18pt !important;
+    color: #FFD700 !important;
+    border-bottom: 2px solid #FFD700 !important;
+    margin-top: 15px !important;
+    margin-bottom: 10px !important;
+  }
+
+  .markdown-rendered h2 {
+    font-size: 14pt !important;
+    color: #e2e8f0 !important;
+  }
+
+  .markdown-rendered h3 {
+    font-size: 12pt !important;
+  }
+
+  /* 4. Listas y texto general */
+  .markdown-rendered p, 
+  .markdown-rendered li {
+    font-size: 10pt !important;
+    margin-bottom: 6px !important;
+  }
+
+  .markdown-rendered ul > li::marker {
+    color: #FFD700 !important;
+  }
+
+  /* 5. Cajas / Callouts con tamaño adecuado */
+  .importante, .callout {
+    font-size: 9.5pt !important;
+    background-color: rgba(255, 193, 7, 0.12) !important;
+    border-left: 4px solid #FFC107 !important;
+    padding: 8px 12px !important;
+    margin: 10px 0 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+}
+
+
+body {
+  
+  --list-marker-color: #FFD700 !important;
+  --list-marker-color-collapsed: #FFC000 !important;
+}
+
+
+.cm-formatting-list,
+.cm-list-bullet,
+.cm-formatting-list-ul {
+  color: #FFD700 !important;
+}
+
+
+.markdown-rendered ul > li::marker,
+.markdown-rendered ol > li::marker {
+  color: #FFD700 !important;
+}
+.cm-header-1, 
+.HyperMD-header-1, 
+.markdown-rendered h1 {
+  font-size: 50px !important;
+}
+
+.cm-header-2,
+.HyperMD-header-2, 
+.markdown-rendered h2{
+  font-size:35px !important
+  
+}
+
+
+
+.cm-header-1, .markdown-rendered h1  {
+  color: #FFD700 !important; 
+  font-weight: 1000;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9) !important;
+  border-bottom: 2px solid #FFD700;
+  padding-bottom: 0px;
+  margin-bottom:3px;
+}
+
+
+.cm-header-2, .markdown-rendered h2 {
+  color: #FFC000 !important;
+
+  font-weight: 800;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9) !important;
+  
+}
+
+
+.cm-header-3, .markdown-rendered h3 {
+  color: #FFCD39 !important;
+  font-weight: 600;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9) !important;
+  border-bottom: 2px solid #FFD700;
+}
+
+/*Negrilla*/
+strong, 
+b, 
+.cm-strong, 
+.markdown-rendered strong {
+  font-weight: 800 !important; /* Peso extra grueso */
+  color: #ffffff !important;   /* Opcional: blanco puro para resaltar aún más sobre el fondo */
+}
+
+/* Títulos 4, 5 y 6 (H4, H5, H6) */
+.cm-header-4, .markdown-rendered h4,
+.cm-header-5, .markdown-rendered h5,
+.cm-header-6, .markdown-rendered h6 {
+  color: #FFE066 !important;
+}
+
+
+mark.amarillo {
+  background-color: #ffe066;
+  color: #000000;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+/* Puedes agregar más colores si quieres */
+mark.verde {
+  background-color: #a8e6cf;
+  color: #000000;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+
+

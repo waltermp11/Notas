@@ -7,7 +7,8 @@
 
 ****
 # BUENAS PRACTICAS - FIGMA
-*La idea es no estresarnos, pero la idea es seleccionar todo > agrupar*
+
+La idea es no estresarnos, pero la idea es seleccionar todo > agrupar
 
 - *No complicarme con componentes ✅*
 

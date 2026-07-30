@@ -4,89 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b4b6c7b9aeb53f31",
+        "id": "d463a067f8ccd0c8",
         "type": "tabs",
         "children": [
           {
-            "id": "39a03327df433588",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "JAVASCRIPT/Pasted image 20260722103539.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260722103539"
-            }
-          },
-          {
-            "id": "9d18bb65f9ec3968",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "JAVASCRIPT/Pasted image 20260722104647.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260722104647"
-            }
-          },
-          {
-            "id": "ec2e0dd89cd54150",
+            "id": "7897c5f6b24ac276",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackerrank/Hackerrank.md",
+                "file": "JAVA/JAVA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hackerrank"
-            }
-          },
-          {
-            "id": "fa6b0155263993e0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260722121733.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260722121733"
-            }
-          },
-          {
-            "id": "5bdaa1100d914260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EMPLEABILIDAD - PORTAFOLIO/PORTAFOLIOS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PORTAFOLIOS"
-            }
-          },
-          {
-            "id": "e66bb271407fd9f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UX-UI/TALLER UX-UI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TALLER UX-UI"
+              "title": "JAVA"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -239,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "css-editor:Open CSS editor quick switcher": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -248,29 +184,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "e66bb271407fd9f8",
+  "active": "abb14572d47017b0",
   "lastOpenFiles": [
-    "Pasted image 20260722115251.png",
-    "UX-UI/TALLER UX-UI.md",
+    "JAVA/JAVA.md",
     "EMPLEABILIDAD - PORTAFOLIO/PORTAFOLIOS.md",
-    "Pasted image 20260722121733.png",
-    "Hackerrank/Hackerrank.md",
+    "imagenes/Pasted image 20260722115251.png",
     "JAVASCRIPT/Pasted image 20260722104647.png",
+    "imagenes/Pasted image 20260722121733.png",
+    "PROYECTO INTEGRADOR/Proyecto integrador.md",
     "JAVASCRIPT/Pasted image 20260722103539.png",
-    "Pasted image 20260724111313.png",
-    "Pasted image 20260724110636.png",
+    "Hackerrank/Hackerrank.md",
+    "imagenes/Pasted image 20260730113646.png",
+    "imagenes/Pasted image 20260730114442.png",
+    "imagenes/Pasted image 20260730125643.png",
+    "imagenes/Untitled.canvas",
+    "Untitled.canvas",
+    "imagenes/Pasted image 20260724111313.png",
+    "colores.css.md",
+    "imagenes",
+    "JAVASCRIPT/javascript.md",
+    "JAVASCRIPT/Pasted image 20260722101945.png",
+    "JAVA",
+    "UX-UI/TALLER UX-UI.md",
+    "UX-UI/Pasted image 20260724110636.png",
     "UX-UI",
     "EMPLEABILIDAD - PORTAFOLIO",
-    "Pasted image 20260722173618.png",
-    "PROYECTO INTEGRADOR/Proyecto integrador.md",
     "New folder",
     "PROYECTO INTEGRADOR",
-    "JAVASCRIPT/javascript.md",
     "Hackerrank",
-    "JAVASCRIPT/Pasted image 20260722105503.png",
-    "JAVASCRIPT/Pasted image 20260722103125.png",
-    "JAVASCRIPT/Pasted image 20260722102740.png",
-    "Untitled.canvas",
     "JAVASCRIPT"
   ]
 }
