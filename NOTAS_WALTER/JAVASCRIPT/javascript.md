@@ -57,13 +57,27 @@ Modifica un atributo personalizado
 
 ![[Pasted image 20260722104647.png]]
 
-![[Pasted image 20260722105503.png]]
+![[Pasted image 20260722105503.png|762]]
 
 
+****
+
+# APIS - CONSUMO DE APIS
+
+una API es una aplicacion que interactua con **cliente y servidor**.
 
 
+## Conceptos Claves
 
+- **Cliente servidor**
+- **Endpoint**
+- **Protocolo HTTP y Metodos**
 
+| ***Cliente Servidor***         | 1. El cliente envia una peticion que se llama **<mark class="verde">request</mark>**<br>2. El servidor procesa la *<mark class="verde">*<mark class="verde">request</mark>**</mark><br>3. Devuelve una respuesta **<mark class="verde">response</mark><br><br><br><br>                                                                                                                                                                                          |
+| :----------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ***EndPoint***                 | Es la **url especifica** a la cual nosotros realizamos la peticion, tenemos los siguientes <mark class="verde">ejemplos:</mark><br><br>1. https://api.nasa.gov/planetary/apod<br>                                                                                                                                                                                                                                                                               |
+| ***Protocolo HTTP y Metodos*** | **Traduccion de  --> hypertext Transfer Protocol**<br><br><br>- Nos ayuda a realizar peticiones de <mark class="verde">datos y recursos</mark><br><br>**METODOS**<br><br>1. <mark class="verde">GET</mark> -- solicitar / leer datos<br>2. <mark class="verde">POST</mark> -- Es cuando nosotros enviamos datos.<br>3. <mark class="verde">PUT / PATCH</mark> --Actualizacion de datos, que ya existian.<br>4. DELETE -- Aca es donde **borramos!**<br><br><br> |
+|                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 
 

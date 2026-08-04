@@ -55,3 +55,10 @@ Se hace mucho en el mundo laboral, la idea es no usar casi la IA, tambien a la i
 
 
 
+
+
+****
+
+# Hackaton
+
+Se tiene que hacer una pagina <mark class="verde">landPage</mark>  lo haremos de comida
