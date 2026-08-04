@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/JAVA.md",
+                "file": "NOTAS_WALTER/JAVASCRIPT/javascript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JAVA"
+              "title": "javascript"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabeticalReverse",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,34 +186,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "abb14572d47017b0",
+  "active": "7897c5f6b24ac276",
   "lastOpenFiles": [
-    "JAVA/JAVA.md",
-    "EMPLEABILIDAD - PORTAFOLIO/PORTAFOLIOS.md",
-    "imagenes/Pasted image 20260722115251.png",
-    "JAVASCRIPT/Pasted image 20260722104647.png",
-    "imagenes/Pasted image 20260722121733.png",
-    "PROYECTO INTEGRADOR/Proyecto integrador.md",
-    "JAVASCRIPT/Pasted image 20260722103539.png",
-    "Hackerrank/Hackerrank.md",
-    "imagenes/Pasted image 20260730113646.png",
-    "imagenes/Pasted image 20260730114442.png",
-    "imagenes/Pasted image 20260730125643.png",
-    "imagenes/Untitled.canvas",
-    "Untitled.canvas",
-    "imagenes/Pasted image 20260724111313.png",
-    "colores.css.md",
-    "imagenes",
-    "JAVASCRIPT/javascript.md",
-    "JAVASCRIPT/Pasted image 20260722101945.png",
-    "JAVA",
-    "UX-UI/TALLER UX-UI.md",
-    "UX-UI/Pasted image 20260724110636.png",
-    "UX-UI",
-    "EMPLEABILIDAD - PORTAFOLIO",
-    "New folder",
-    "PROYECTO INTEGRADOR",
-    "Hackerrank",
-    "JAVASCRIPT"
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/UX-UI/TALLER UX-UI.md",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/UX-UI/Pasted image 20260724112412.png",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/UX-UI/Pasted image 20260724110636.png",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/PROYECTO INTEGRADOR/Proyecto integrador.md",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVASCRIPT/Pasted image 20260722105503.png",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVASCRIPT/Pasted image 20260722104647.png",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVASCRIPT/Pasted image 20260722103539.png",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVASCRIPT/Pasted image 20260722103125.png",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVASCRIPT/Pasted image 20260722102740.png",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVASCRIPT/Pasted image 20260722102517.png",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVASCRIPT/Pasted image 20260722102236.png",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVASCRIPT/Pasted image 20260722101945.png",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVASCRIPT/javascript.md",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVA/JAVA.md",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/imagenes/Untitled.canvas",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/Hackerrank/Hackerrank.md",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/EMPLEABILIDAD - PORTAFOLIO/PORTAFOLIOS.md",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/BOOTCAMP - PROYECTO INDIVIDUAL/Proyecto Personal.md",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/UX-UI",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/PROYECTO INTEGRADOR",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVASCRIPT",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVA",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/imagenes",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/Hackerrank",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/EMPLEABILIDAD - PORTAFOLIO",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/BOOTCAMP - PROYECTO INDIVIDUAL",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP",
+    "NOTAS_WALTER/JAVASCRIPT/javascript.md",
+    "NOTAS_WALTER/Hackerrank/Hackerrank.md",
+    "Untitled.base",
+    "NOTAS_WALTER/PROYECTO INTEGRADOR/Proyecto integrador.md",
+    "NOTAS_WALTER/UX-UI/TALLER UX-UI.md",
+    "NOTAS_WALTER/JAVA/JAVA.md",
+    "NOTAS_WALTER/imagenes/Untitled.canvas",
+    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/PORTAFOLIOS.md",
+    "NOTAS_WALTER/BOOTCAMP - PROYECTO INDIVIDUAL/Proyecto Personal.md",
+    "BOOTCAMP/colores.css.md",
+    "Untitled.canvas"
   ]
 }

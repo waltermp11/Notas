@@ -124,7 +124,7 @@ strong,
 b, 
 .cm-strong, 
 .markdown-rendered strong {
-  font-weight: 800 !important; /* Peso extra grueso */
+  font-weight: 700 !important; /* Peso extra grueso */
   color: #ffffff !important;   /* Opcional: blanco puro para resaltar aún más sobre el fondo */
 }
 
