@@ -37,27 +37,19 @@ hoy vamos a ver el DOM
 
 tenemos las siguientes dos propiedades donde tenemos:
 
-1. textContent 
-2. innerHTML
-
-ahora definiendo como tal:
-
+1. **textContent** 
+2. **innerHTML**
 ### textContent
 
-- Solo agrega un texto, literalmente solo es texto
-
-
+- Solo agrega texto en el HTML, invalida aun las etiquetas que aun estan ahi.
 ### innerHTML
 
 - Agregar etiquetas en HTML.
 - agrega lo que nosotros queramos a nuestor HTML
-![[Pasted image 20260722102517.png|762]]
+-
+![[Pasted image 20260722102517.png|717]]
 
-
-**Explicacion de como se comporta**
-- 
-
-![[Pasted image 20260722102740.png]]
+![[Pasted image 20260722102740.png|704]]
 
 
 
