@@ -64,7 +64,6 @@ tenemos las siguientes dos propiedades donde tenemos:
 Modifica un atributo personalizado
 
 
-
 ![[Pasted image 20260722103125.png|933]]
 
 
@@ -96,6 +95,10 @@ una API es una aplicacion que interactua con **cliente y servidor**.
 | ***EndPoint***                 | Es la **url especifica** a la cual nosotros realizamos la peticion, tenemos los siguientes <mark class="verde">ejemplos:</mark><br><br>1. https://api.nasa.gov/planetary/apod<br>                                                                                                                                                                                                                                                                                                                                    |
 | ***Protocolo HTTP y Metodos*** | **Traduccion de  --> hypertext Transfer Protocol**<br><br><br>- Nos ayuda a realizar peticiones de <mark class="verde">datos y recursos</mark><br><br>**METODOS**<br><br>1. <mark class="verde">GET</mark> -- solicitar / leer datos<br>2. <mark class="verde">POST</mark> -- Es cuando nosotros enviamos datos.<br>3. <mark class="verde">PUT / PATCH</mark> --Actualizacion de datos, que ya existian.<br>4. <mark class="verde">DELETE</mark> -- Aca es donde **borramos!** apartir de una solicitud.<br><br><br> |
 
+## Paso a paso de como consumir una API
+
+1. Definimos la URL --> tambien lo conocemos como un endpoint.
+2. Resvision de autentificación --> API key, para obtener o un token de acceso
 
 
 
