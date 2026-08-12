@@ -210,6 +210,49 @@ Ir probando mientras vamos ejecutando, donde paso a paso o bloque a bloque, veri
 2. <mark class="verde">Error en Ejecucion - compilo bien ✅</mark>
 
 	- Muestra el mensaje abajo despues de hacer la compilacion.
-	- Seria mas error de logica que un error, casi siempre nos menciona la **ubicacion**
+	- Seria mas error de **logica** que un error, casi siempre nos menciona la **ubicacion**
 	
 ![[Pasted image 20260806114901.png]]
+
+
+****
+
+# Programacion Orientada a Objetos ( Clases, objetos y encapsulamiento)
+
+
+- La POO, nos ayuda a evitar la <mark class="verde">**redundancia** de **creacion de datos innecesarios!**</mark> o sea, no mas variables casi que iguales.
+
+	- <mark class="verde">Siempre debemos tener validaciones!</mark>
+- POO -->Una forma de programar, aplicar la realidad en la programacion.
+- Representacion.
+- Junta sus caracteristicas ( atributos) y tambien sus funciones (metodos unicos o compartidos)
+
+
+
+## Encapsulamiento
+Una propiedad fundamental en la 
+
+[[#Tabla de Contenido]]
+
+
+- utilizamos private para que no todo el mundo acceda, solo a traves del metodo.
+	- **private String nombre;**
+	- **private double precioObjeto;**
+
+
+## Metodos
+Nosotros tenemos que tener en cuenta si es **HACE o DA**
+
+- <mark class="verde">Hace</mark>
+	- Hace operaciones, muestra resultados donde no necesitamos el valor posteriormente.
+- <mark class="verde">Da:</mark>
+	- Hace operaciones, pero lo que retorna normalmente lo necesitamos.
+
+
+
+
+### Por que main lleva Static?
+
+
+
+
