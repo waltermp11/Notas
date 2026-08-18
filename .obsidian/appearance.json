@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "colores"
   ],
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "theme": "obsidian"
 }

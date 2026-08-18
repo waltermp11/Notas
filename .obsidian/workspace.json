@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d463a067f8ccd0c8",
+        "id": "76210eca2f5c043a",
         "type": "tabs",
         "children": [
           {
-            "id": "20dcfba3be55b8f3",
+            "id": "e555a69369a637f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REUNIONES FAMILIARES.md",
+                "file": "NOTAS_WALTER/PROGRAMACION/BASES DE DATOS/Bases de datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REUNIONES FAMILIARES"
+              "title": "Bases de datos"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#asdas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.9125213623047
   },
   "right": {
     "id": "75ef702d8a032a5b",
@@ -176,6 +176,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "css-editor:Open CSS editor quick switcher": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -183,42 +184,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "bases:Create new base": false
     }
   },
-  "active": "20dcfba3be55b8f3",
+  "active": "e555a69369a637f0",
   "lastOpenFiles": [
-    "imagenes/Pasted image 20260801183528.png",
-    "REUNIONES MVE.md",
-    "REUNIONES FAMILIARES.md",
-    "colores.css.md",
-    "Proyecto Personal.md",
-    "imagenes/Pasted image 20260731194654.png",
-    "imagenes/Pasted image 20260731194356.png",
-    "imagenes/Pasted image 20260731194236.png",
-    "JAVA/JAVA.md",
-    "EMPLEABILIDAD - PORTAFOLIO/PORTAFOLIOS.md",
-    "imagenes/Pasted image 20260722115251.png",
-    "JAVASCRIPT/Pasted image 20260722104647.png",
-    "imagenes/Pasted image 20260722121733.png",
-    "PROYECTO INTEGRADOR/Proyecto integrador.md",
-    "JAVASCRIPT/Pasted image 20260722103539.png",
-    "Hackerrank/Hackerrank.md",
-    "imagenes/Pasted image 20260730113646.png",
-    "imagenes/Pasted image 20260730114442.png",
-    "imagenes/Pasted image 20260730125643.png",
-    "imagenes/Untitled.canvas",
-    "Untitled.canvas",
-    "imagenes",
-    "JAVASCRIPT/javascript.md",
-    "JAVA",
-    "UX-UI/TALLER UX-UI.md",
-    "UX-UI",
-    "EMPLEABILIDAD - PORTAFOLIO",
     "New folder",
-    "PROYECTO INTEGRADOR",
-    "Hackerrank",
-    "JAVASCRIPT"
+    "NOTAS_WALTER/PROGRAMACION/BASES DE DATOS",
+    "NOTAS_WALTER/PROGRAMACION/JAVA/PRUEBAS UNITARIAS -TESTING JAVA.md",
+    "NOTAS_WALTER/PROGRAMACION/BASES DE DATOS/Bases de datos.md",
+    "imagenes/Pasted image 20260818104811.png",
+    "imagenes/Pasted image 20260818104719.png",
+    "imagenes/Pasted image 20260818104634.png",
+    "imagenes/Pasted image 20260818095538.png",
+    "imagenes/Pasted image 20260818095224.png",
+    "imagenes/Pasted image 20260818095053.png",
+    "imagenes/Pasted image 20260818095039.png",
+    "imagenes/Pasted image 20260818095014.png",
+    "imagenes/Pasted image 20260818094710.png",
+    "imagenes/Pasted image 20260818094706.png",
+    "NOTAS_WALTER/PROGRAMACION/JAVA/HERENCIA EN JAVA.md",
+    "NOTAS_WALTER/PROGRAMACION/JAVA/JAVA.md",
+    "NOTAS_WALTER/PROGRAMACION/EMPLEABILIDAD - PORTAFOLIO/Entrevistas Tecnicas.md",
+    "NOTAS_WALTER/PERSONAL/IGLESIA/REUNIONES FAMILIARES.md",
+    "NOTAS_WALTER/New folder",
+    "NOTAS_WALTER/PERSONAL/IGLESIA/REUNIONES MVE.md",
+    "Untitled.base",
+    "[.md",
+    "NOTAS_WALTER/PERSONAL/IGLESIA",
+    "NOTAS_WALTER/PERSONAL",
+    "NOTAS_WALTER/PROGRAMACION",
+    "NOTAS_WALTER/PROGRAMACION/JAVASCRIPT/javascript.md",
+    "NOTAS_WALTER/PROGRAMACION/Hackerrank/Hackerrank.md",
+    "NOTAS_WALTER/PROGRAMACION/Hackerrank/HackerRank 1.md",
+    "NOTAS_WALTER/PROGRAMACION/EMPLEABILIDAD - PORTAFOLIO/EMPLEABILIDAD.md",
+    "NOTAS_WALTER/PROGRAMACION/EMPLEABILIDAD - PORTAFOLIO/PORTAFOLIOS.md",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/UX-UI/TALLER UX-UI.md",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/PROYECTO INTEGRADOR/Proyecto integrador.md",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVASCRIPT/javascript.md",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVA/JAVA.md",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/imagenes/Untitled.canvas",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/Hackerrank/Hackerrank.md",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/EMPLEABILIDAD - PORTAFOLIO/PORTAFOLIOS.md",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/BOOTCAMP - PROYECTO INDIVIDUAL/Proyecto Personal.md",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/UX-UI",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/PROYECTO INTEGRADOR",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVASCRIPT",
+    "DESARROLLO  - ESTUDIO - BOOTCAMP/JAVA",
+    "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/Proyecto integrador.md",
+    "NOTAS_WALTER/PROGRAMACION/UX-UI/TALLER UX-UI.md",
+    "NOTAS_WALTER/PROGRAMACION/imagenes/Untitled.canvas",
+    "NOTAS_WALTER/PROGRAMACION/BOOTCAMP - PROYECTO INDIVIDUAL/Proyecto Personal.md",
+    "BOOTCAMP/colores.css.md",
+    "Untitled.canvas"
   ]
 }

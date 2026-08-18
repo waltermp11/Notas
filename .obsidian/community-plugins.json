@@ -4,5 +4,6 @@
   "css-editor",
   "quickadd",
   "obsidian-pandoc",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-table-generator"
 ]
