@@ -83,3 +83,4 @@ ayuda a tener mejores ideas, mejores diseños a los profesionales.
 
 ## Dimensiones Clave de la IA - Uso responsable
 
+![[Pasted image 20260827152004.png]]
