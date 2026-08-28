@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/MODELO VISTA CONTROLADOR.md",
+                "file": "NOTAS_WALTER/PROGRAMACION/IA - INTELIGENCIA ARTIFICIAL/IA SIN PENSAMIENTO ANALITICO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MODELO VISTA CONTROLADOR"
+              "title": "IA SIN PENSAMIENTO ANALITICO"
             }
           }
         ],
@@ -215,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,13 +234,16 @@
   },
   "active": "0e52dc61995bea3e",
   "lastOpenFiles": [
-    "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/SpringBoot.md",
-    "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/MODELO VISTA CONTROLADOR.md",
+    "NOTAS_WALTER/PROGRAMACION/IA - INTELIGENCIA ARTIFICIAL/IA Generalista.md",
+    "NOTAS_WALTER/PROGRAMACION/IA - INTELIGENCIA ARTIFICIAL/IA SIN PENSAMIENTO ANALITICO.md",
     "NOTAS_WALTER/PROGRAMACION/IA - INTELIGENCIA ARTIFICIAL/SESION DE CLASE.md",
+    "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/MODELO VISTA CONTROLADOR.md",
+    "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/SpringBoot.md",
+    "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/JPA.md",
+    "imagenes/Pasted image 20260828111050.png",
     "imagenes/Pasted image 20260827160125.png",
     "imagenes/Pasted image 20260827155824.png",
     "imagenes/Pasted image 20260827152013.png",
-    "NOTAS_WALTER/PROGRAMACION/IA - INTELIGENCIA ARTIFICIAL/IA Generalista.md",
     "imagenes/Pasted image 20260827152004.png",
     "NOTAS_WALTER/PROGRAMACION/CSS/Responsive - Mediaquerys.md",
     "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/TAREAS PENDIENTES Y OBSERVACIONES DE MUNDO LAPTOP.md",
@@ -252,7 +256,6 @@
     "imagenes/Pasted image 20260827111952.png",
     "imagenes/Pasted image 20260827111740.png",
     "imagenes/Pasted image 20260827111626.png",
-    "imagenes/Pasted image 20260827111552.png",
     "NOTAS_WALTER/PROGRAMACION/BASES DE DATOS/Taller.md",
     "NOTAS_WALTER/PROGRAMACION/BASES DE DATOS/Taller 4 - Joins.md",
     "NOTAS_WALTER/PROGRAMACION/UX-UI/TALLER UX-UI.md",
@@ -277,8 +280,6 @@
     "NOTAS_WALTER/PERSONAL/IGLESIA/REUNIONES MVE.md",
     "[.md",
     "NOTAS_WALTER/PROGRAMACION/JAVASCRIPT/javascript.md",
-    "NOTAS_WALTER/PROGRAMACION/Hackerrank/Hackerrank.md",
-    "NOTAS_WALTER/PROGRAMACION/EMPLEABILIDAD - PORTAFOLIO/EMPLEABILIDAD.md",
     "DESARROLLO  - ESTUDIO - BOOTCAMP/imagenes/Untitled.canvas",
     "NOTAS_WALTER/PROGRAMACION/imagenes/Untitled.canvas",
     "Untitled.canvas"

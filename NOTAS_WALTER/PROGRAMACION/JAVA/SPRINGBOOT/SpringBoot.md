@@ -46,9 +46,10 @@ api/saludo/saludo_1
 
 
 
-### 
-### Inyeccion de independencias
+### INYECCION DE DEPENDENCIAS
 
+**que es una dependencias?**
+es una libreria como tal, que nos facilita a la hora de desarrollar
 
 Las independencias nos ayudan a hacer el trabajo mas rapido, no tener que crea todo como nuevo.
 
