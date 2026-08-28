@@ -1,8 +1,10 @@
 {
-  "baseFontSize": 17,
+  "baseFontSize": 16,
   "enabledCssSnippets": [
     "colores"
   ],
-  "cssTheme": "Things",
-  "theme": "obsidian"
+  "cssTheme": "Obsidianite",
+  "theme": "system",
+  "accentColor": "#5cf57b",
+  "baseFontSizeAction": true
 }

@@ -8,9 +8,9 @@
   "newFileFolderPath": "imagenes",
   "attachmentFolderPath": "imagenes",
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "1",
-    "downscalePercent": 100
+    "downscalePercent": 70
   }
 }

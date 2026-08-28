@@ -5,5 +5,8 @@
   "quickadd",
   "obsidian-pandoc",
   "table-editor-obsidian",
-  "obsidian-table-generator"
+  "obsidian-table-generator",
+  "editing-toolbar",
+  "obsidian-excalidraw-plugin",
+  "calendar"
 ]

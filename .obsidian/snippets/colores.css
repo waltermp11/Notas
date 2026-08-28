@@ -1,140 +1,136 @@
-/* ==========================================
-   ESTILOS DE EXPORTACIÓN A PDF CORREGIDOS
-   ========================================== */
+/* ===================================================
+   1. ESTILOS DE EXPORTACIÓN A PDF
+   =================================================== */
 @media print {
-  /* 1. Definir tamaño de página A4/Carta con márgenes estándar */
+  /* Tamaño y márgenes de página */
   @page {
     size: A4;
-    margin: 15mm 15mm 15mm 15mm;
+    margin: 12mm 15mm;
+    background-color: #0d0a14 !important;
   }
 
-  /* 2. Controlar estrictamente el tamaño global del texto */
+  .markdown-rendered ul ul,
+  .markdown-rendered ol ul,
+  .markdown-rendered ul ol,
+  .markdown-rendered ol ol {
+    border-left: none !important;
+    box-shadow: none !important;
+  }
+
+  .markdown-rendered li::before,
+  .markdown-rendered .list-collapse-indicator,
+  .cm-indent-guide {
+    display: none !important;
+    border: none !important;
+  }
+
+  /* Fondo y colores principales */
   html, body, .markdown-rendered, .print {
-    background-color: #1e1e1e !important;
-    color: #dcddde !important;
-    font-size: 10pt !important; /* <--- Controla el tamaño de letra general */
-    line-height: 1.5 !important;
+    background-color: #0d0a14 !important;
+    color: #b3b9c5 !important;
     -webkit-print-color-adjust: exact !important;
     print-color-adjust: exact !important;
   }
 
-  /* 3. Escalar encabezados de forma proporcional */
+  /* Encabezados en PDF */
   .markdown-rendered h1 {
-    font-size: 18pt !important;
-    color: #FFD700 !important;
-    border-bottom: 2px solid #FFD700 !important;
-    margin-top: 15px !important;
-    margin-bottom: 10px !important;
+    color: #84cc16 !important;
+    font-size: 22pt !important;
+    border-bottom: 2px solid #3b0764 !important;
   }
 
   .markdown-rendered h2 {
-    font-size: 14pt !important;
-    color: #e2e8f0 !important;
+    color: #eab308 !important;
+    font-size: 16pt !important;
+    border-bottom: 1px solid #eab308 !important;
   }
 
   .markdown-rendered h3 {
-    font-size: 12pt !important;
+    color: #84cc16 !important;
+    font-size: 14pt !important;
   }
 
-  /* 4. Listas y texto general */
-  .markdown-rendered p, 
-  .markdown-rendered li {
-    font-size: 10pt !important;
-    margin-bottom: 6px !important;
+  /* Enlaces, Marcadores y Tags */
+  .markdown-rendered a {
+    color: #38bdf8 !important;
   }
 
-  .markdown-rendered ul > li::marker {
-    color: #FFD700 !important;
+  .tag {
+    background-color: #0e4e56 !important;
+    color: #22d3ee !important;
   }
 
-  /* 5. Cajas / Callouts con tamaño adecuado */
-  .importante, .callout {
-    font-size: 9.5pt !important;
-    background-color: rgba(255, 193, 7, 0.12) !important;
-    border-left: 4px solid #FFC107 !important;
-    padding: 8px 12px !important;
-    margin: 10px 0 !important;
-    -webkit-print-color-adjust: exact !important;
-    print-color-adjust: exact !important;
+  mark {
+    background-color: #5eead4 !important;
+    color: #042f2e !important;
   }
 }
 
 
+/* ===================================================
+   2. VARIABLES Y COLORES GENERALES
+   =================================================== */
 body {
-  
   --list-marker-color: #FFD700 !important;
   --list-marker-color-collapsed: #FFC000 !important;
 }
 
-
 .cm-formatting-list,
 .cm-list-bullet,
-.cm-formatting-list-ul {
-  color: #FFD700 !important;
-}
-
-
+.cm-formatting-list-ul,
 .markdown-rendered ul > li::marker,
 .markdown-rendered ol > li::marker {
   color: #FFD700 !important;
 }
+
+
+/* ===================================================
+   3. ENCABEZADOS (H1, H2, H3, H4-H6)
+   =================================================== */
+
+/* H1 y H2 estilizados exactamente igual */
 .cm-header-1, 
 .HyperMD-header-1, 
-.markdown-rendered h1 {
-  font-size: 50px !important;
-}
-
-.cm-header-2,
+.markdown-rendered h1,
+.cm-header-2, 
 .HyperMD-header-2, 
-.markdown-rendered h2{
-  font-size:35px !important
-  
-}
-
-
-
-.cm-header-1, .markdown-rendered h1  {
-  color: #FFD700 !important; 
-  font-weight: 1000;
+.markdown-rendered h2 {
+  font-size: 35px !important;
+  color: #92d050 !important;
+  font-weight: 800 !important;
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9) !important;
-  border-bottom: 2px solid #FFD700;
+  border-bottom: 2px solid #FFD700 !important;
   padding-bottom: 0px;
-  margin-bottom:3px;
+  margin-bottom: 3px;
 }
 
-
-.cm-header-2, .markdown-rendered h2 {
-  color: #FFC000 !important;
-
-  font-weight: 800;
-  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9) !important;
-  
-}
-
-
-.cm-header-3, .markdown-rendered h3 {
+/* H3 */
+.cm-header-3, 
+.markdown-rendered h3 {
   color: #FFCD39 !important;
-  font-weight: 600;
+  font-weight: 600 !important;
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9) !important;
-  border-bottom: 2px solid #FFD700;
+  border-bottom: 2px solid #FFD700 !important;
 }
 
-/*Negrilla*/
-strong, 
-b, 
-.cm-strong, 
-.markdown-rendered strong {
-  font-weight: 700 !important; /* Peso extra grueso */
-  color: #ffffff !important;   /* Opcional: blanco puro para resaltar aún más sobre el fondo */
-}
-
-/* Títulos 4, 5 y 6 (H4, H5, H6) */
+/* H4, H5 y H6 */
 .cm-header-4, .markdown-rendered h4,
 .cm-header-5, .markdown-rendered h5,
 .cm-header-6, .markdown-rendered h6 {
   color: #FFE066 !important;
 }
 
+
+/* ===================================================
+   4. FORMATO DE TEXTO (Negrita y Resaltados)
+   =================================================== */
+strong, 
+b, 
+.cm-strong, 
+.markdown-rendered strong {
+  font-weight: 700 !important;
+  color: #ffffff !important;
+}
 
 mark.amarillo {
   background-color: #ffe066;
@@ -143,7 +139,6 @@ mark.amarillo {
   border-radius: 3px;
 }
 
-/* Puedes agregar más colores si quieres */
 mark.verde {
   background-color: #a8e6cf;
   color: #000000;
@@ -152,4 +147,50 @@ mark.verde {
 }
 
 
+/* ===================================================
+   5. ALINEACIÓN Y POSICIONAMIENTO DE LISTAS / VIÑETAS
+   =================================================== */
 
+/* Sangría general de listas */
+ul, ol,
+.markdown-rendered ul, 
+.markdown-rendered ol {
+  padding-left: 1.8rem !important;
+  margin-left: 0 !important;
+}
+
+li,
+.markdown-rendered li {
+  list-style-position: outside !important;
+}
+
+/* Reseteo de pseudo-elementos conflictivos */
+.markdown-rendered li::before,
+.cm-line .list-bullet::before,
+li::before {
+  display: inline !important; 
+  position: static !important;
+  transform: none !important;
+}
+
+/* Alineación exacta de las viñetas en el Editor (Live Preview) */
+.cm-formatting-list-ul,
+.cm-list-bullet,
+.list-bullet {
+  display: inline-block !important;
+  position: relative !important;
+  top: 6px !important; /* Baja la viñeta para centrarla con la línea de texto */
+  vertical-align: baseline !important;
+  margin-right: 4px !important;
+}
+
+/* Alineación en Modo Lectura */
+.markdown-rendered ul li::marker {
+  vertical-align: middle !important;
+}
+
+/* Ajuste para listas de tareas (Checklists) */
+.contains-task-list ul,
+.task-list-item ul {
+  padding-left: 1.8rem !important;
+}
