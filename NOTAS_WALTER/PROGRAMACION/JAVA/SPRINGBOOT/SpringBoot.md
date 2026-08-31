@@ -1,5 +1,5 @@
 
-# <font color="#e36c09">Springboot</font>
+# SPRINGBOOT
 
 **Que es un bean?**
 - un objeto que es creado por spring, que hace lo siguiente:
@@ -13,14 +13,14 @@
 
 
 **Por que manejamos anotaciones en Springboot?** **y que nos permiten hacer las anotaciones?**
-- Es propio del framework spring boot las <mark class="verde">anotaciones</mark>
+- Es propio del framework spring boot las <mark class="verde">anotaciones</mark>.
 - estas nos pertmiten :
 
 
-|       **Darle un rol a una clase**        | Algunos ejemplos ede darle un rol a la clase:<br><br>- <font color="#938953">@RestController :</font><br>esta clase es un controlador web, que establece que esa clase va<br><br>           - recibir peticiones web<br>					 - **devuelve datos**<br><br><br>-<font color="#e36c09">@Repository:</font><br>Esta clase conecta a la base de datos.<br><br> |
-| :---------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **mapear rutas - Establecer una funcion** | <font color="#e36c09">**@GetMapping:**</font><br>- cuando alguien entre a una URL, ejecuta este metodo.<br>- En este caso <mark class="verde">@GetMapping</mark> lo que hace es traer informacion, en formato JSON como normalmente es.                                                                                                                    |
-|         **Inyectar dependencias**         |                                                                                                                                                                                                                                                                                                                                                            |
+|       **Darle un rol a una clase**        | Algunos ejemplos de darle un rol a la clase:<br><br>- <font color="#938953">@RestController :</font><br>esta clase es un controlador web, que establece que esa clase va<br><br>           - recibir peticiones web<br>					 - **devuelve datos**<br><br><br>-<font color="#e36c09">@Repository:</font><br>Esta clase conecta a la base de datos.<br><br> |
+| :---------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **mapear rutas - Establecer una funcion** | <font color="#e36c09">**@GetMapping:**</font><br>- cuando alguien entre a una URL, ejecuta este metodo.<br>- En este caso <mark class="verde">@GetMapping</mark> lo que hace es traer informacion, en formato JSON como normalmente es.                                                                                                                   |
+|         **Inyectar dependencias**         |                                                                                                                                                                                                                                                                                                                                                           |
 
 
 
@@ -45,7 +45,11 @@ api/saludo/saludo_1
 **que hacemos en controller?**
 
 
+## COMO CREAMOS UN PROYECTO EN SPRINGBOOT?
 
+1. Ingregamos a Spring intializer en la pagina.
+2. Seleccionamos maven como dependencias --> es mas facil y la graddle es para celulares.
+3. Seleccionamos la dependencias mas importante **springboot Web** --> ya que vamos a desarrollar
 ### INYECCION DE DEPENDENCIAS
 
 **que es una dependencias?**

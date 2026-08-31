@@ -32,9 +32,23 @@
               "icon": "lucide-file",
               "title": "MODELO VISTA CONTROLADOR"
             }
+          },
+          {
+            "id": "ad05cf28ed6b76ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/MODELO VISTA CONTROLADOR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MODELO VISTA CONTROLADOR"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,19 +246,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0e52dc61995bea3e",
+  "active": "ad05cf28ed6b76ab",
   "lastOpenFiles": [
+    "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/SpringBoot.md",
+    "Untitled 1.md",
+    "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/MODELO VISTA CONTROLADOR.md",
+    "Untitled.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Excalidraw/Drawing 2026-08-29 15.43.39.excalidraw.md",
+    "NOTAS_WALTER/PROGRAMACION/BOOTCAMP - PROYECTO INDIVIDUAL/Proyecto Personal.md",
+    "Excalidraw",
     "imagenes/Pasted image 20260829153045.png",
     "imagenes/Pasted image 20260829152837.png",
     "imagenes/Pasted image 20260829152454.png",
-    "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/SpringBoot.md",
     "NOTAS_WALTER/PROGRAMACION/BASES DE DATOS/Bases de datos.md",
     "NOTAS_WALTER/PROGRAMACION/BASES DE DATOS/Taller 4 - Joins.md",
     "NOTAS_WALTER/PROGRAMACION/BASES DE DATOS/Taller.md",
     "NOTAS_WALTER/PROGRAMACION/IA - INTELIGENCIA ARTIFICIAL/IA SIN PENSAMIENTO ANALITICO.md",
     "NOTAS_WALTER/PROGRAMACION/IA - INTELIGENCIA ARTIFICIAL/IA Generalista.md",
     "NOTAS_WALTER/PROGRAMACION/IA - INTELIGENCIA ARTIFICIAL/SESION DE CLASE.md",
-    "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/MODELO VISTA CONTROLADOR.md",
     "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/JPA.md",
     "imagenes/Pasted image 20260828111050.png",
     "imagenes/Pasted image 20260827160125.png",
@@ -255,20 +276,15 @@
     "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/TAREAS PENDIENTES Y OBSERVACIONES DE MUNDO LAPTOP.md",
     "NOTAS_WALTER/PROGRAMACION/CSS",
     "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/Proyecto integrador.md",
-    "Untitled 1.base",
     "imagenes/Pasted image 20260827112409.png",
     "imagenes/Pasted image 20260827112045.png",
-    "imagenes/Pasted image 20260827111952.png",
     "NOTAS_WALTER/PROGRAMACION/UX-UI/TALLER UX-UI.md",
     "2026-08-10.md",
     "NOTAS_WALTER/PROGRAMACION/IA - INTELIGENCIA ARTIFICIAL",
     "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT",
-    "Untitled.base",
-    "Untitled.md",
     "NOTAS_WALTER/PROGRAMACION/HACKLATON - 2/Hackaton 2.md",
     "NOTAS_WALTER/PROGRAMACION/Hackerrank/HackerRank 1.md",
     "Excalidraw/Drawing 2026-08-25 14.39.53.excalidraw.md",
-    "Excalidraw",
     "NOTAS_WALTER/PROGRAMACION/HACKLATON - 2",
     "New folder",
     "NOTAS_WALTER/PROGRAMACION/BASES DE DATOS",
@@ -278,8 +294,6 @@
     "NOTAS_WALTER/PROGRAMACION/EMPLEABILIDAD - PORTAFOLIO/Entrevistas Tecnicas.md",
     "NOTAS_WALTER/PERSONAL/IGLESIA/REUNIONES FAMILIARES.md",
     "NOTAS_WALTER/New folder",
-    "NOTAS_WALTER/PERSONAL/IGLESIA/REUNIONES MVE.md",
-    "[.md",
     "DESARROLLO  - ESTUDIO - BOOTCAMP/imagenes/Untitled.canvas",
     "NOTAS_WALTER/PROGRAMACION/imagenes/Untitled.canvas",
     "Untitled.canvas"

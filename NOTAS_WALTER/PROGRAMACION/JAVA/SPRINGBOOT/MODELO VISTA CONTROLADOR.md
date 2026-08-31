@@ -5,10 +5,10 @@
 **Como aplicamos este patron de diseño y que es este?** 
 
 - Tenemos la siguiente distribucion referente al Patro de diseño.
-- Entender que es una arquitectura como tal --> seleccionada, 
+- Entender que es una arquitectura como tal --> seleccionada
+- **Tambien** --> <mark class="verde">Springboot conoce mas este framework como tal, trabaja mejor</mark>. ✅
 
 <mark style="background:#fdbfff">**NOTA --> BUSCAR QUE ARQUITECTURAS NOSOTROS TENEMOS DISPONIBLES PARA DESARROLLAR**</mark>
-
 
 
 
@@ -16,6 +16,25 @@
 
 
 ![[Pasted image 20260829153045.png|886]]
+
+
+
+
+
+## EJEMPLO DE COMO SE VEE LA ESTRUCTURA
+
+com.nombreaplicacion.vetCare
+
+- **Controller** --> gestiona las peticiones ( recibe y manda)
+- **Service** --> tenemos la logica y reglas del negocio 🗿
+- **repository** --> Es la que interactua con la base de datos 📊
+- **model** --> Aca tenemos las entidades 🪪 
+<mark class="verde">
+Recordando que en model a futuro es donde se vana  desarrollar las columnas de nuestra base de datos</mark>
+
+- **dto** --> Data transfer Object ( DTO de salida y DTO de entrada, como entra y sale y con sus respectivas validaciones JSON)
+
+
 
 
 ****
@@ -69,7 +88,7 @@ Aca respondemos varias cosas,
 - *Tambien una definicion seria las validaciones que nosotros desarrollamos para que todo pueda funcionar correctamente, descuentos y entre otras.*
 
 
-*Ejemplod e reglas de negocio --> <mark class="verde">si pasa x entonces que sucede y</mark>*
+*Ejemplo de reglas de negocio --> <mark class="verde">si pasa x entonces que sucede y</mark>*
 
 ![[Pasted image 20260829152454.png|651]]
 
@@ -90,5 +109,31 @@ procedimiento o flujo de pasos, aca si tenemos codigo.
 
 Es la que trabaja o interactua unicamente con la base de datos!!!!!!
 
+
+**nota -->**
+Repository al interactuar directamente con la base de datos, cuenta ya con **metodos desarrollados ya anterioemente**
+
+
+- <mark class="verde">Buscar por Id</mark>
+- <mark class="verde"> Listar todos</mark>
+- <mark class="verde">eliminar para ID</mark>
+
+
+
+
+****
+
+## COMO SERIA UN LOGIN?
+Nosotros tenemos que tener en cuenta que :
+
+1. Tenemos una entidad llamada **usuario** 👤
+2. Tenemos DTOs, que nos ayudan a ver como recibimos y como damos salida a ese dato.
+3. Nunca retornamos la password en un dto. --> seguridad obviamente 🔐
+
+
+
+**DTO --> DATA TRANSFER OBJECT**
+- cada entidad tiene una salida y entrada de datos. ✅
+- En los DTOs encontramos validaciones de campos, si como si fuera un *FRONT, donde validamos cantidad de caracteres, que no sea null y entre otras.*
 
 
