@@ -60,7 +60,7 @@ Nosotros tenemos esto para guardar los datos como tal.
 Tenemos 3 tipos de relaciones principales
 
 1. Uno a uno -- 1:1
-2. Uno a muchos -- 1:n
+2. Uno a muchos -- 1:n --> *normalmente la clave foranea va en la tabla de muchos a uno.*
 3. Muchos a muchos -- n:n
 
 

@@ -68,3 +68,44 @@ seria casi que una instancia, en este caso, **tenemos un atributo final tipo Obj
 
 
 
+
+****
+
+# Relaciones entre entidades
+
+- una cita conecta mas de una identidad.
+
+continuando con el proyecto de **veterinaria**
+
+## Recordando
+
+Tenemos la relaciones -
+- uno a uno
+- uno a muchos
+- muchos a muchos
+
+
+ene ste caso @ManyToMany --> con esta anotacion, solo cre una tabla de relacion entre las dos, pero no tenemos atributos dentro de esta.
+
+
+
+
+
+
+****
+# Validaciones
+
+- son importantes en todo programa, para limitar como queremos nosotros los datos.
+- Validamos en nuestros DTOs  ✅
+	
+- **agregamos la dependencia** --> *Recordar que siempre tenemos que en el pom agregamos todas las independencias.*
+
+```
+<dependency>  
+    <groupId>org.springframework.boot</groupId>  
+    <artifactId>spring-boot-starter-validation</artifactId>  
+</dependency>
+```
+
+
+

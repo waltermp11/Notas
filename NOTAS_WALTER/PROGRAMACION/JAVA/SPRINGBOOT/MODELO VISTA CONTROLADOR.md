@@ -2,6 +2,14 @@
 
 # MVC - Modelo vista controlador
 
+- Estandar mas usado para construir aplicaciones WEB.
+- Separa responsabilidades del software en --> **capas**
+
+**por que capas?**
+*Es por capas, para que sea modular (<mark class="verde">dividido en partes independientes, especializadas para tareas especificas</mark>), mantenible y escalable*
+
+
+
 **Como aplicamos este patron de diseño y que es este?** 
 
 - Tenemos la siguiente distribucion referente al Patro de diseño.
@@ -13,6 +21,10 @@
 
 
 - **DELEGACIONES** -- **CAPAS** --> pensamos en ahora den adelante quie son las carpetas comot al
+
+
+
+![[Pasted image 20260901162614.png|590]]
 
 
 ![[Pasted image 20260829153045.png|886]]
