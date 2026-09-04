@@ -50,6 +50,5 @@ manejar la trazabilidad despues de comprarlo, “ Tu mundo, tu laptop sin limite
 ## POR QUE NACE ESTE  E-COMMERCE?
 
 1. Nuestro E-Commerce nace surge para resolver *la insatisfacción de los usuarios que exigen rendimiento 
-	Real.
-2.  transformando una tienda virtual tradicional en una plataforma de gestión y trazabilidad de hardware. 
-3. No solo programamos una pasarela de venta, sino un sistema que acompaña la vida útil del equipo, garantiza la compatibilidad técnica y acerca la tecnología de alto rendimiento a precios 
+	Real. 
+2. No solo programamos una pasarela de venta, sino un sistema que acompaña la vida útil del equipo, garantiza la compatibilidad técnica y acerca la tecnología de alto rendimiento a precios justos
