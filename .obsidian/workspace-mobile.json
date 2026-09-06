@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/PRESENTACION 2/PREPARACION PARA PRESENTACION 2 - MUNDO LAPTOP 💻.md",
+                "file": "NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL/Devocional Familiar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PREPARACION PARA PRESENTACION 2 - MUNDO LAPTOP 💻"
+              "title": "Devocional Familiar"
             }
           }
         ]
@@ -162,8 +162,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       }
     ],
@@ -171,8 +171,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -180,14 +178,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "css-editor:Open CSS editor quick switcher": false
+      "css-editor:Open CSS editor quick switcher": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5c0b0543828b118f",
+  "active": "d4a4905510597913",
   "lastOpenFiles": [
     "NOTAS_WALTER/PERSONAL/IGLESIA/REUNIONES FAMILIARES.md",
+    "Untitled 1",
+    "NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL",
+    "Untitled",
     "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/PRESENTACION 2/PREPARACION PARA PRESENTACION 2 - MUNDO LAPTOP 💻.md",
-    "Devocional Familiar.md",
+    "NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL/Devocional Familiar.md",
     "NOTAS_WALTER/PROGRAMACION/EMPLEABILIDAD - PORTAFOLIO/EMPLEABILIDAD.md",
     "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/MODELO VISTA CONTROLADOR.md",
     "NOTAS_WALTER/PROGRAMACION/BASES DE DATOS/Bases de datos.md",
