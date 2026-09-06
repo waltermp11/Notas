@@ -52,3 +52,13 @@ manejar la trazabilidad despues de comprarlo, “ Tu mundo, tu laptop sin limite
 1. Nuestro E-Commerce nace surge para resolver *la insatisfacción de los usuarios que exigen rendimiento 
 	Real. 
 2. No solo programamos una pasarela de venta, sino un sistema que acompaña la vida útil del equipo, garantiza la compatibilidad técnica y acerca la tecnología de alto rendimiento a precios justos
+
+
+
+
+
+## OBSERVACIONES
+
+- si nos quedamos como tal en stock, que sea automaticamente
+- no estoy logueada --> me deja agregar, si quiero comprar siempre tirar a Loguear como tal.
+- validacion de que el EMAIL --> ya esta registrado, no la dejo iniciar como tal, limpair el formulario, que no sea persistente. (*Limpiar formularios cuando sean usados.*)
