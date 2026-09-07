@@ -10,3 +10,7 @@ Recomendaciones a la hora de tener una entrevista tecnica.
 	- 
 
 ![[Pasted image 20260814120833.png|1069]]
+
+
+
+
