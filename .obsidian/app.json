@@ -1,0 +1,20 @@
+{
+  "spellcheck": false,
+  "tabSize": 2,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "newFileLocation": "root",
+  "newFileFolderPath": "imagenes",
+  "attachmentFolderPath": "imagenes",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 70
+  },
+  "livePreview": true,
+  "showInlineTitle": false,
+  "propertiesInDocument": "visible",
+  "foldIndent": true
+}

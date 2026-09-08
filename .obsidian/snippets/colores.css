@@ -1,0 +1,256 @@
+/* ===================================================
+   1. ESTILOS DE EXPORTACIÓN A PDF
+   =================================================== */
+@media print {
+  /* Tamaño y márgenes de página */
+  @page {
+    size: A4;
+    margin: 12mm 15mm;
+    background-color: #0d0a14 !important;
+  }
+
+  .markdown-rendered ul ul,
+  .markdown-rendered ol ul,
+  .markdown-rendered ul ol,
+  .markdown-rendered ol ol {
+    border-left: none !important;
+    box-shadow: none !important;
+  }
+
+  .markdown-rendered li::before,
+  .markdown-rendered .list-collapse-indicator,
+  .cm-indent-guide {
+    display: none !important;
+    border: none !important;
+  }
+
+  /* Fondo y colores principales */
+  html, body, .markdown-rendered, .print {
+    background-color: #0d0a14 !important;
+    color: #b3b9c5 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Encabezados en PDF (Sin bordes/líneas) */
+  .markdown-rendered h1 {
+    color: #84cc16 !important;
+    font-size: 22pt !important;
+    border-bottom: none !important;
+  }
+
+  .markdown-rendered h2 {
+    color: #eab308 !important;
+    font-size: 16pt !important;
+    border-bottom: none !important;
+  }
+
+  .markdown-rendered h3 {
+    color: #84cc16 !important;
+    font-size: 14pt !important;
+    border-bottom: none !important;
+  }
+
+  /* Enlaces, Marcadores y Tags */
+  .markdown-rendered a {
+    color: #38bdf8 !important;
+  }
+
+  .tag {
+    background-color: #0e4e56 !important;
+    color: #22d3ee !important;
+  }
+
+  mark {
+    background-color: #5eead4 !important;
+    color: #042f2e !important;
+  }
+}
+
+
+/* ===================================================
+   2. VARIABLES Y COLORES GENERALES
+   =================================================== */
+body {
+  --list-marker-color: #92d050 !important;
+  --list-marker-color-collapsed: #80c038 !important;
+}
+
+/* Números y viñetas en color verde */
+.cm-formatting-list,
+.cm-list-bullet,
+.cm-formatting-list-ul,
+.cm-formatting-list-ol,
+.markdown-rendered ul > li::marker,
+.markdown-rendered ol > li::marker {
+  color: #92d050 !important;
+}
+
+
+/* ===================================================
+   3. ENCABEZADOS (H1, H2, H3, H4-H6)
+   =================================================== */
+
+/* H1 y H2 estilizados (Línea inferior removida) */
+.cm-header-1, 
+.HyperMD-header-1, 
+.markdown-rendered h1,
+.cm-header-2, 
+.HyperMD-header-2, 
+.markdown-rendered h2 {
+  font-size: 35px !important;
+  color: #92d050 !important;
+  font-weight: 800 !important;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9) !important;
+  border-bottom: none !important;
+  padding-bottom: 0px;
+  margin-bottom: 3px;
+}
+
+/* H3 (Línea inferior removida) */
+.cm-header-3, 
+.markdown-rendered h3 {
+  color: #FFCD39 !important;
+  font-weight: 600 !important;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9) !important;
+  border-bottom: none !important;
+}
+
+/* H4, H5 y H6 */
+.cm-header-4, .markdown-rendered h4,
+.cm-header-5, .markdown-rendered h5,
+.cm-header-6, .markdown-rendered h6 {
+  color: #FFE066 !important;
+}
+
+
+/* ===================================================
+   4. FORMATO DE TEXTO (Negrita y Resaltados)
+   =================================================== */
+strong, 
+b, 
+.cm-strong, 
+.markdown-rendered strong {
+  font-weight: 700 !important;
+  color: #ffffff !important;
+}
+
+mark.amarillo {
+  background-color: #ffe066;
+  color: #000000;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+mark.verde {
+  background-color: #a8e6cf;
+  color: #000000;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+
+/* ===================================================
+   5. ALINEACIÓN Y POSICIONAMIENTO DE LISTAS / VIÑETAS
+   =================================================== */
+
+/* Sangría reducida en listas (de 1.8rem a 1.1rem) */
+ul, ol,
+.markdown-rendered ul, 
+.markdown-rendered ol {
+  padding-left: 1.1rem !important;
+  margin-left: 0 !important;
+}
+
+li,
+.markdown-rendered li {
+  list-style-position: outside !important;
+}
+
+/* Reseteo de pseudo-elementos conflictivos */
+.markdown-rendered li::before,
+.cm-line .list-bullet::before,
+li::before {
+  display: inline !important; 
+  position: static !important;
+  transform: none !important;
+}
+
+/* Alineación exacta de las viñetas en el Editor (Live Preview) */
+.cm-formatting-list-ul,
+.cm-list-bullet,
+.list-bullet {
+  display: inline-block !important;
+  position: relative !important;
+  top: 6px !important; /* Baja la viñeta para centrarla con la línea de texto */
+  vertical-align: baseline !important;
+  margin-right: 4px !important;
+}
+
+/* Alineación en Modo Lectura */
+.markdown-rendered ul li::marker {
+  vertical-align: middle !important;
+}
+
+/* Ajuste para listas de tareas (Checklists) */
+.contains-task-list ul,
+.task-list-item ul {
+  padding-left: 1.1rem !important;
+}
+
+
+/* ===================================================
+   ANARANJADOS (Marcador y Negrita)
+   =================================================== */
+
+/* Marcador anaranjado con <mark class="naranja"> */
+mark.naranja {
+  background-color: #ff8c00 !important;
+  color: #000000 !important;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+/* Negrita naranja encendida */
+strong.naranja-encendida,
+.cm-strong.naranja-encendida {
+  color: #ff5500 !important;
+  font-weight: 800 !important;
+  text-shadow: 0 0 6px rgba(ff, 85, 0, 0.6) !important;
+}
+
+
+/* ===================================================
+   NEGRITA ROSA ENCENDIDO / FUCSIA
+   =================================================== */
+strong.rosa-encendido,
+.cm-strong.rosa-encendido {
+  color: #ff007f !important;
+  font-weight: 800 !important;
+  text-shadow: 0 0 6px rgba(255, 0, 127, 0.6) !important;
+}
+
+/* ===================================================
+   TEXTO GENERAL TIPO CÓDIGO CIAN / TURQUESA
+   =================================================== */
+
+/* 1. Cambia la fuente global y color de texto */
+body,
+.markdown-rendered,
+.cm-content,
+.cm-line {
+  font-family: 'Fira Code', 'JetBrains Mono', 'Cascadia Code', monospace !important;
+   /* Color cian/turquesa de la imagen */
+}
+
+/* ===================================================
+   CORRECCIÓN DE CURSIVA (ITALIC)
+   =================================================== */
+
+/* Forzar que las etiquetas de cursiva sí apliquen inclinación */
+em,
+i,
+.cm-em,
+.markdown-rendered em {
+  font-style: italic !important;
+}
