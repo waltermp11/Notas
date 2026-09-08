@@ -32,22 +32,23 @@
     print-color-adjust: exact !important;
   }
 
-  /* Encabezados en PDF */
+  /* Encabezados en PDF (Sin bordes/líneas) */
   .markdown-rendered h1 {
     color: #84cc16 !important;
     font-size: 22pt !important;
-    border-bottom: 2px solid #3b0764 !important;
+    border-bottom: none !important;
   }
 
   .markdown-rendered h2 {
     color: #eab308 !important;
     font-size: 16pt !important;
-    border-bottom: 1px solid #eab308 !important;
+    border-bottom: none !important;
   }
 
   .markdown-rendered h3 {
     color: #84cc16 !important;
     font-size: 14pt !important;
+    border-bottom: none !important;
   }
 
   /* Enlaces, Marcadores y Tags */
@@ -71,16 +72,18 @@
    2. VARIABLES Y COLORES GENERALES
    =================================================== */
 body {
-  --list-marker-color: #FFD700 !important;
-  --list-marker-color-collapsed: #FFC000 !important;
+  --list-marker-color: #92d050 !important;
+  --list-marker-color-collapsed: #80c038 !important;
 }
 
+/* Números y viñetas en color verde */
 .cm-formatting-list,
 .cm-list-bullet,
 .cm-formatting-list-ul,
+.cm-formatting-list-ol,
 .markdown-rendered ul > li::marker,
 .markdown-rendered ol > li::marker {
-  color: #FFD700 !important;
+  color: #92d050 !important;
 }
 
 
@@ -88,7 +91,7 @@ body {
    3. ENCABEZADOS (H1, H2, H3, H4-H6)
    =================================================== */
 
-/* H1 y H2 estilizados exactamente igual */
+/* H1 y H2 estilizados (Línea inferior removida) */
 .cm-header-1, 
 .HyperMD-header-1, 
 .markdown-rendered h1,
@@ -99,18 +102,18 @@ body {
   color: #92d050 !important;
   font-weight: 800 !important;
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9) !important;
-  border-bottom: 2px solid #FFD700 !important;
+  border-bottom: none !important;
   padding-bottom: 0px;
   margin-bottom: 3px;
 }
 
-/* H3 */
+/* H3 (Línea inferior removida) */
 .cm-header-3, 
 .markdown-rendered h3 {
   color: #FFCD39 !important;
   font-weight: 600 !important;
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9) !important;
-  border-bottom: 2px solid #FFD700 !important;
+  border-bottom: none !important;
 }
 
 /* H4, H5 y H6 */
@@ -151,11 +154,11 @@ mark.verde {
    5. ALINEACIÓN Y POSICIONAMIENTO DE LISTAS / VIÑETAS
    =================================================== */
 
-/* Sangría general de listas */
+/* Sangría reducida en listas (de 1.8rem a 1.1rem) */
 ul, ol,
 .markdown-rendered ul, 
 .markdown-rendered ol {
-  padding-left: 1.8rem !important;
+  padding-left: 1.1rem !important;
   margin-left: 0 !important;
 }
 
@@ -192,5 +195,62 @@ li::before {
 /* Ajuste para listas de tareas (Checklists) */
 .contains-task-list ul,
 .task-list-item ul {
-  padding-left: 1.8rem !important;
+  padding-left: 1.1rem !important;
+}
+
+
+/* ===================================================
+   ANARANJADOS (Marcador y Negrita)
+   =================================================== */
+
+/* Marcador anaranjado con <mark class="naranja"> */
+mark.naranja {
+  background-color: #ff8c00 !important;
+  color: #000000 !important;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+/* Negrita naranja encendida */
+strong.naranja-encendida,
+.cm-strong.naranja-encendida {
+  color: #ff5500 !important;
+  font-weight: 800 !important;
+  text-shadow: 0 0 6px rgba(ff, 85, 0, 0.6) !important;
+}
+
+
+/* ===================================================
+   NEGRITA ROSA ENCENDIDO / FUCSIA
+   =================================================== */
+strong.rosa-encendido,
+.cm-strong.rosa-encendido {
+  color: #ff007f !important;
+  font-weight: 800 !important;
+  text-shadow: 0 0 6px rgba(255, 0, 127, 0.6) !important;
+}
+
+/* ===================================================
+   TEXTO GENERAL TIPO CÓDIGO CIAN / TURQUESA
+   =================================================== */
+
+/* 1. Cambia la fuente global y color de texto */
+body,
+.markdown-rendered,
+.cm-content,
+.cm-line {
+  font-family: 'Fira Code', 'JetBrains Mono', 'Cascadia Code', monospace !important;
+   /* Color cian/turquesa de la imagen */
+}
+
+/* ===================================================
+   CORRECCIÓN DE CURSIVA (ITALIC)
+   =================================================== */
+
+/* Forzar que las etiquetas de cursiva sí apliquen inclinación */
+em,
+i,
+.cm-em,
+.markdown-rendered em {
+  font-style: italic !important;
 }
