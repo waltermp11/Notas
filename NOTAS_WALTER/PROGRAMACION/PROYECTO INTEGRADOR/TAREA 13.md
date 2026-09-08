@@ -14,7 +14,6 @@
 <mark class="verde">Pregunta : Como manejamos los DTOs?</mark>
 
 
-
 ****
 
 # Bases de Datos
