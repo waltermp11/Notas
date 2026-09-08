@@ -30,3 +30,6 @@ Manejamos la siguiente base de datos
 	- nuevo
 	- open box
 	- repotenciados
+
+
+**Trajo inmediatamente los cambios como tal! **
