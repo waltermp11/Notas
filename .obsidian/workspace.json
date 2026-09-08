@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/RELACIONES EN JAVA SPRINGBOOT.md",
+                "file": "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/TAREA 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RELACIONES EN JAVA SPRINGBOOT"
+              "title": "TAREA 13"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 208.3679656982422
   },
   "right": {
     "id": "75ef702d8a032a5b",
@@ -221,8 +221,9 @@
   },
   "active": "e0422fb9c8b358ea",
   "lastOpenFiles": [
-    "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/SpringBoot.md",
     "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/RELACIONES EN JAVA SPRINGBOOT.md",
+    "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/TAREA 13.md",
+    "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/SpringBoot.md",
     "Excalidraw/Drawing 2026-09-01 16.22.13.excalidraw.md",
     "Excalidraw/Drawing 2026-09-02 12.37.08.excalidraw.md",
     "Excalidraw/Drawing 2026-09-06 20.41.25.excalidraw.md",
@@ -253,7 +254,6 @@
     "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/TAREA 11.md",
     "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/BASES DE DATOS/BASE DE DATOS.md",
     "NOTAS_WALTER/PROGRAMACION/JAVA/HERENCIA EN JAVA.md",
-    "NOTAS_WALTER/PROGRAMACION/HACKLATON - 2/Hackaton 2.md",
     "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/BASES DE DATOS",
     "imagenes/Pasted image 20260901162614.png",
     "imagenes/Pasted image 20260831113917.png",
