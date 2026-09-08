@@ -25,4 +25,8 @@ Manejamos la siguiente base de datos
 
 **Notas** 
 - Se hace DTO por cada una de las entidades, con el fin de tener el control de que recibimos y que entregamos.
-- 
+
+- <mark class="verde">pregunta</mark> : *Vamos a manejar ENUM como *
+	- nuevo
+	- open box
+	- repotenciados
