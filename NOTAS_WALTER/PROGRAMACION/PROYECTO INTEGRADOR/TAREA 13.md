@@ -12,7 +12,7 @@
 **Nota --> manejar los repository adecuados, controllers y services. **
 
 <mark class="verde">Pregunta : Como manejamos los DTOs?</mark>
-
+	
 
 ****
 
@@ -20,3 +20,9 @@
 Manejamos la siguiente base de datos
 
 ![[image.webp | 500x450]]
+
+
+
+**Notas** 
+- Se hace DTO por cada una de las entidades, con el fin de tener el control de que recibimos y que entregamos.
+- 
