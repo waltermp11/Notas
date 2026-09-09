@@ -46,3 +46,15 @@ Se define la clave primaria, recordemos que cada tabla necesita una tabla primar
 
 
 
+
+
+
+
+
+****
+
+# ANOTACIONES (SERVICE)
+
+<mark class="naranja">@Transactional </mark>
+Todo lo que este seleccionado o un metodo que tenga esto, se le asigna que solo se ejecutara en una transaccion.
+

@@ -31,5 +31,15 @@ Manejamos la siguiente base de datos
 	- open box
 	- repotenciados
 
+- <mark class="naranja">Manejamos el Java con la version 21</mark>
+
 
 **Trajo inmediatamente los cambios como tal! **
+
+
+****
+
+
+## Relaciones en las bases de datos
+
+1. **Relacion**
