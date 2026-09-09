@@ -62,7 +62,7 @@ Es un proceso donde ocultamos el proceso interno y <mark class="verde">solo impo
 <mark class="naranja">Springboot</mark> es una herramiente del framework spring, springboot es una herramienta ya configurada para que haya un despligue mas rapido.
 
 **CON QUE FIN?**
-con le fin de que solo nos importe la <mark class="verde">*logica de negocio, donde nosotros aplicamos el codigo como tal ( Procedimiento o el flujo de pasos).</mark>
+con le fin de que solo nos importe la <mark class="naranja">*logica de negocio, donde nosotros aplicamos el codigo como tal ( Procedimiento o el flujo de pasos).</mark>
 
 
 ****
@@ -76,14 +76,14 @@ con le fin de que solo nos importe la <mark class="verde">*logica de negocio, do
 *REST --> son un conjunto de reclas y principiso de arquitectura para el  diseño de servicios web.*
 
 
-**R** -- recursos que son entidades de mi programa, cada recurso tiene una url unica.
+**<strong class="rosa-encendido">R</strong>** --> recursos que son entidades de mi programa, cada recurso tiene una url unica.
 
-**E** --> Estandarizar los metodos o que sean generales. (**CRUD**)
+**<strong class="rosa-encendido">E</strong>** --> Estandarizar los metodos o que sean generales. (**CRUD**)
 
 
-**S** --> Stateless ( sin estado), que toda la informacions e pase en la solicitud (*que se entienda*), <mark class="verde">NO SE MANEJA UN RECUERDO</mark>`
+**<strong class="rosa-encendido">S</strong>** --> Stateless ( sin estado), que toda la informacions e pase en la solicitud (*que se entienda*), <mark class="verde">NO SE MANEJA UN RECUERDO</mark>`
 
-**T** --> Transferencia apartir de formato JSON
+**<strong class="rosa-encendido">T</strong>** --> Transferencia apartir de formato JSON
 
 
 Las peticiones HTTP que me se:
@@ -93,5 +93,40 @@ Las peticiones HTTP que me se:
 3. DELETE --> *Borramos, nada mas ❌*
 4. UPDATE --> *Actualizamos como tal ✅*
 
+
+****
+
+5. <strong class="rosa-encendido">Diferencia entre Has y array</strong>
+
+	1. <mark class="naranja">array --> </mark>
+	- Tiene una coleccion ordenada de elementos.
+
+
+	1. <mark class="naranja">hashMap --></mark>
+	- Tiene clave y valor.
+
+<strong class="rosa-encendido">
+6. Cuales son los 4 pilares de css?</strong>
+
+	1. El modelo de Cajas.
+	2. Encascamiento y especificidad.
+	3. Herencia.
+	4. Posicionamiento.
+
+
+7<strong class="rosa-encendido">. cual es la diferencia entre print, println y printf en Java</strong>
+
+
+
+8. <strong class="rosa-encendido">Enumera las caracteristicas clave de JavaScript?</strong>
+	1. <mark class="naranja">Lenguaje interpretado</mark>
+	2. <mark class="naranja">tipado dinamico</mark> --> no requerimos especificar el tipod e variable.
+	3. <mark class="naranja">Basado de prototipos</mark>.
+	4. <mark class="naranja">Funciones de primer orden</mark>
+	5. <mark class="naranja">Monohilo Asincrono</mark>.
+	6. <mark class="naranja">Ejecucion multientorno</mark>.
+
+
+9. <strong class="rosa-encendido">Explica @Transactional en Spring y sus niveles de aislamiento</strong>
 
 

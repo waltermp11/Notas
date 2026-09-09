@@ -79,7 +79,7 @@ Recordemos que hace referencia donde esta la <mark class="verde">clave primaria 
 
 
 
-![[Pasted image 20260820120930.png|500x]]
+![[Pasted image 20260820120930.png|500x|391]]
 
 
 
