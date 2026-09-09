@@ -1,6 +1,6 @@
 # PREPARACION ENTREVISTA TECNICA - PREGUNTAS
 
-1. **Que es la programacion orientada a Objetos y diga cuales son los 4 pilares principales**
+1. **<strong class="rosa-encendido">Que es la programacion orientada a Objetos y diga cuales son los 4 pilares principales**</strong>
 
 	La programacion orientada a objetos es un *paradigma de la programacion --> es una forma de estructurar  y resolver problemas mediante codigo.*
 
@@ -35,12 +35,16 @@ Es un proceso donde ocultamos el proceso interno y <mark class="verde">solo impo
 
 
 ****
-2. **Cual es la diferencia entre == y el metodo .equals() en java?**
+2. **<strong class="rosa-encendido">Cual es la diferencia entre == y el metodo .equals() en java</strong>?**
 
 - <mark class="verde">el operador == --> </mark>
 	- compara referencias de *memoria en objetos*. Apunta hacia el mismo espacio de memoria.
 	- La idea es usar este solo cuando se trabaje con tipos primitivos.
 		- (**int, boolean, double, char**, null)
+
+<strong class="rosa-encendido">
+**Pregunta condicional referente a esta, entonces porque si aplica usarlo en operaciones?</strong>**
+
 
 
 
