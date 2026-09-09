@@ -69,7 +69,7 @@ con le fin de que solo nos importe la <mark class="naranja">*logica de negocio, 
 
 4. <strong class="rosa-encendido">**Como funciona una API rest y que metodos HTTP principales conoces?**</strong>
 
-- Tenemos el concepto de API claro, que es una aplicacion mediadora, que se comunica entre dos programas. 
+- Tenemos el concepto de API claro, que es una aplicacion mediadora, que se comunica entre dos programas. *Cliente  -- API --- Servidor*
 - Manejando reglas **REST**
 
 
@@ -104,6 +104,8 @@ Las peticiones HTTP que me se:
 
 	1. <mark class="naranja">hashMap --></mark>
 	- Tiene clave y valor.
+****
+
 
 <strong class="rosa-encendido">
 6. Cuales son los 4 pilares de css?</strong>
@@ -128,5 +130,12 @@ Las peticiones HTTP que me se:
 
 
 9. <strong class="rosa-encendido">Explica @Transactional en Spring y sus niveles de aislamiento</strong>
+
+<mark class="verde">@Transactional</mark> -->
+
+Es una agrupación de todo o nada, se envian en un borrador y solo al final del método se aplica un **GUARDADO PERMANENTE**.
+
+<mark class="naranja">
+Ahora cuales son los niveles de aislamiento?</mark>
 
 
