@@ -139,3 +139,11 @@ Es una agrupación de todo o nada, se envian en un borrador y solo al final del 
 Ahora cuales son los niveles de aislamiento?</mark>
 
 
+10. <strong class="rosa-encendido">Estructurado de etiquetas de HTML</strong>
+11. <strong class="rosa-encendido">CSS Margin y Padding, cual es la diferencia?</strong>
+12. <strong class="rosa-encendido">Diferencia entre let, var y const</strong>
+13. <strong class="rosa-encendido">Bootstrap aprender mas de este framework y como funciona exactamente</strong>.
+14. 
+
+
+
