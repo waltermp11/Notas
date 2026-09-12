@@ -11,14 +11,10 @@
             "id": "e0422fb9c8b358ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NOTAS_WALTER/PROGRAMACION/EMPLEABILIDAD - PORTAFOLIO/PREPARACION PARA ENTREVISTA TECNICA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PREPARACION PARA ENTREVISTA TECNICA"
+              "title": "New tab"
             }
           }
         ]
@@ -221,6 +217,14 @@
   },
   "active": "e0422fb9c8b358ea",
   "lastOpenFiles": [
+    "NOTAS_WALTER/PROGRAMACION/JAVA/JWT.md",
+    "NOTAS_WALTER/PROGRAMACION/IA - INTELIGENCIA ARTIFICIAL/PROMPTS.md",
+    "NOTAS_WALTER/PROGRAMACION/IA - INTELIGENCIA ARTIFICIAL/LECTURAS Y CONOCIMIENTOS DE LA IA.md",
+    "NOTAS_WALTER/PROGRAMACION/IA - INTELIGENCIA ARTIFICIAL/Actividades de CANVAs.md",
+    "NOTAS_WALTER/PERSONAL/IGLESIA/MVE REUNIONES/MVE.md",
+    "NOTAS_WALTER/PERSONAL/Untitled.md",
+    "NOTAS_WALTER/PERSONAL/IGLESIA/MVE REUNIONES",
+    "NOTAS_WALTER/PROGRAMACION/JAVASCRIPT/javascript.md",
     "NOTAS_WALTER/PROGRAMACION/EMPLEABILIDAD - PORTAFOLIO/PREPARACION PARA ENTREVISTA TECNICA.md",
     "NOTAS_WALTER/PROGRAMACION/EMPLEABILIDAD - PORTAFOLIO/Correccion 3 de la hoja de vida.md",
     "NOTAS_WALTER/PROGRAMACION/EMPLEABILIDAD - PORTAFOLIO/EMPLEABILIDAD.md",
@@ -241,20 +245,13 @@
     "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/PRESENTACION 2/PREPARACION PARA PRESENTACION 2 - MUNDO LAPTOP 💻.md",
     "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/TAREA 13.md",
     "imagenes/image.webp",
-    "Excalidraw/Drawing 2026-09-01 16.22.13.excalidraw.md",
-    "Excalidraw/Drawing 2026-09-02 12.37.08.excalidraw.md",
-    "Excalidraw/Drawing 2026-09-06 20.41.25.excalidraw.md",
     "Untitled 2.base",
     "Untitled.canvas",
     "imagenes/Pasted image 20260906202133.png",
-    "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/MODELO VISTA CONTROLADOR.md",
-    "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT/DTOs.md",
     "imagenes/Pasted image 20260906130902.png",
     "imagenes/Pasted image 20260906130823.png",
-    "NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL/Devocional Familiar.md",
     "NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL",
     "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/PRESENTACION 2",
-    "Untitled 2.md",
     "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/BASES DE DATOS",
     "imagenes/Pasted image 20260901162614.png",
     "imagenes/Pasted image 20260831113917.png",
@@ -267,7 +264,6 @@
     "NOTAS_WALTER/PROGRAMACION/IA - INTELIGENCIA ARTIFICIAL",
     "NOTAS_WALTER/PROGRAMACION/JAVA/SPRINGBOOT",
     "Untitled.base",
-    "Excalidraw",
     "DESARROLLO  - ESTUDIO - BOOTCAMP/imagenes/Untitled.canvas",
     "NOTAS_WALTER/PROGRAMACION/imagenes/Untitled.canvas"
   ]
