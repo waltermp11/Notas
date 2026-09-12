@@ -22,7 +22,7 @@ hoy vamos a ver el DOM
 - *selecciona el primer elemento con clase "demo-item"*
 - querySelectorAll() --> Selecciona a todos los de esa clase.
 -
-![[Pasted image 20260722101945.png|1062]]
+![[Pasted image 20260722101945.png|800]]
 
 ****
 # Otras formas de seleccionar
@@ -39,13 +39,14 @@ tenemos las siguientes dos propiedades donde tenemos:
 
 1. **textContent** 
 2. **innerHTML**
-### textContent
+## textContent
 
 - Solo agrega texto en el HTML, invalida aun las etiquetas que aun estan ahi.
-### innerHTML
+## innerHTML
 
 - Agregar etiquetas en HTML.
-- agrega lo que nosotros queramos a nuestor HTML
+- agrega lo que nosotros queramos a nuestro HTML
+- lo usamos para renderizar paginas
 -
 ![[Pasted image 20260722102517.png|717]]
 
@@ -58,7 +59,12 @@ tenemos las siguientes dos propiedades donde tenemos:
 # ClassList y Atributos
 
 ## Classlist 
-- al pasar un activo como tal.
+- Tengo que entender que con ClassList podemos:
+	- <mark class="naranja">Agregar</mark>
+	- Quitar
+	- Alternar
+
+Pero todo orientado a las clases
 
 ## SetAttribute
 Modifica un atributo personalizado
