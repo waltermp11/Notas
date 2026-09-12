@@ -34,7 +34,7 @@ https://bible.com/bible/149/mat.5.10.RVR1960
 
 <strong class="rosa-encendido">
 San Mateo 5:11 RVR1960</strong>
-[11] Bienaventurados sois cuando por mi causa os vituperen y os persigan, y digan toda clase de mal contra vosotros, mintiendo. 
+[11] Bienaventurados sois cuando por mi causa os <mark class="verde">vituperen</mark> y os persigan, y digan toda clase de mal contra vosotros, mintiendo. 
 
 https://bible.com/bible/149/mat.5.11.RVR1960
 

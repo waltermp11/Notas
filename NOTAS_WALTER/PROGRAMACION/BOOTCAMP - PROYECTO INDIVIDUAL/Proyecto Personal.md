@@ -49,3 +49,31 @@
 ![[Pasted image 20260730143446.png|642]]
 
 
+
+
+
+****
+# Recomendacion ✅
+
+- Tener readme.md en la pagina. 
+- tener el despiegue. 
+- tener 4 proyectos. 
+- Mirar como puedo hacer los despliegues de las aplicaciones. 
+
+
+
+<mark class="verde">Link de entrega portafolio </mark> --> https://generation.instructure.com/courses/4652/assignments/343207?module_item_id=3181134
+
+
+<mark class="naranja">Nota</mark>
+- Repositorio.
+- Link para el deploy como tal.
+
+
+
+
+
+
+
+
+

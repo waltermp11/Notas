@@ -40,3 +40,4 @@ Contiene la informacion --> codificados en JSON ( claims)
 Tenemos la informacion clara en la URL
 
 -
+	
