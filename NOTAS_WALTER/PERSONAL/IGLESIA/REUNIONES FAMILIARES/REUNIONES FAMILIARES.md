@@ -3,6 +3,9 @@
 
 - Servicio.
 
+<strong class="rosa-encendido">
+Aca ahciendo una prueba de como se comporta el portatil </strong>
+
 ## 1. El servicio refleja el caracter de cristo
 
 - Marcos 10:45
