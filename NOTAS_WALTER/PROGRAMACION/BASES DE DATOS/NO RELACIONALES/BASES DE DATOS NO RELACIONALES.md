@@ -16,38 +16,42 @@ la informacion entra de muchas maneras.
 -  Tengo que pensar que se usa mas o necesita desarrollar.
 
 
-<mark class="naranja">
-TIPOS DE BASES DE DATOS NO RELACIONALES</mark>
 
-1. **Documento**
+****
+
+## TIPOS DE BASES DE DATOS NO RELACIONALES
+
+1. **Documento** --> formato Json
 2. **Clave - valor**
 3. **columna anacha** 
 4. **Grafo**
 
 
 
-<strong class="rosa-encendido">EXPLICACION</strong>
+## <strong class="rosa-encendido">EXPLICACION</strong> TIPOS DE NO RELACIONALES
 
-- <mark class="verde">documento </mark>-->
+### DOCUMENTO
 Json, listas y objetos anidados. Se comporta a medida que lo voy usando. 
 
-usado para:
+<strong class="rosa-encendido">**usado para:**</strong>
 - perfiles
 - catalogos
 - contenido de forma variable
 
 Ejemplo --> MondoDB - couchbase
 
-- <mark class="verde">Clave- valor </mark>-->
+
+****
+
+### CLAVE / VALOR
 
 usado para :
 - sesiones
 - cache
 - carritos temporales.
 
-
-- <mark class="verde">columna Ancha</mark>
-	- filas con conjuntos de distinas columnas.
+### COLUMNA ANCHA
+ilas con conjuntos de distinas columnas.
 
 <mark class="naranja">
 Para entender columna ancha:</mark>

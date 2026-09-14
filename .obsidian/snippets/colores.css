@@ -92,9 +92,20 @@ body {
    =================================================== */
 
 /* H1 y H2 estilizados (Línea inferior removida) */
+
 .cm-header-1, 
 .HyperMD-header-1, 
-.markdown-rendered h1,
+.markdown-rendered h1{
+font-size: 55px !important;
+  color: #92d050 !important;
+  font-weight: 1000 !important;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9) !important;
+  border-bottom: none !important;
+  padding-bottom: 0px;
+  margin-bottom: 3px;
+  
+}
+
 .cm-header-2, 
 .HyperMD-header-2, 
 .markdown-rendered h2 {
@@ -110,10 +121,15 @@ body {
 /* H3 (Línea inferior removida) */
 .cm-header-3, 
 .markdown-rendered h3 {
-  color: #FFCD39 !important;
-  font-weight: 600 !important;
-  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9) !important;
+  font-size: 35px !important;
+  font-weight: 800 !important;
   border-bottom: none !important;
+  padding-bottom: 0px;
+  margin-bottom: 3px;
+  font-weight: 600 !important;
+  border-bottom: none !important;
+  font-weight: 800 !important;
+  text-shadow: 0 0 3px rgb(0, 255, 204) !important;
 }
 
 /* H4, H5 y H6 */
@@ -205,7 +221,7 @@ li::before {
 
 /* Marcador anaranjado con <mark class="naranja"> */
 mark.naranja {
-  background-color: #ff8c00 !important;
+  background-color: #9ce85e !important;
   color: #000000 !important;
   padding: 2px 4px;
   border-radius: 3px;
@@ -225,9 +241,9 @@ strong.naranja-encendida,
    =================================================== */
 strong.rosa-encendido,
 .cm-strong.rosa-encendido {
-  color: #ff5500 !important;Z`
+  color: #ff5500 !important;
   font-weight: 800 !important;
-  text-shadow: 0 0 3px rgb(0, 255, 204) !important;
+  text-shadow: 0 0 3px rgb(166, 0, 255) !important;
 }
 
 /* ===================================================

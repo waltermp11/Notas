@@ -7,7 +7,7 @@
 
 
 
-<strong class="rosa-encendido">COMO SE COMPONE EL TOKEN?</strong>
+## <strong class="rosa-encendido">COMO SE COMPONE EL TOKEN?</strong>
 - <mark class="verde">Encabezado ( HEADER)</mark>
 - <mark class="naranja">Carga util (PAYLOAD)</mark>
 - <mark class="verde">Firma ( SIGNATURE)</mark>
