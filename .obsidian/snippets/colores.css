@@ -221,7 +221,7 @@ li::before {
 
 /* Marcador anaranjado con <mark class="naranja"> */
 mark.naranja {
-  background-color: #9ce85e !important;
+  background-color: #c18dc8 !important;
   color: #000000 !important;
   padding: 2px 4px;
   border-radius: 3px;
@@ -243,7 +243,7 @@ strong.rosa-encendido,
 .cm-strong.rosa-encendido {
   color: #ff5500 !important;
   font-weight: 800 !important;
-  text-shadow: 0 0 3px rgb(166, 0, 255) !important;
+  text-shadow: 0 0 3px rgb(128, 159, 255) !important;
 }
 
 /* ===================================================
