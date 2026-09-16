@@ -42,7 +42,7 @@ https://bible.com/bible/149/mat.5.11.RVR1960
 
 ***
 
-## Jesus y la ley
+## Jesus y la ley - septiembre 15 del 2026
 
 <mark class="naranja">Mateo 5:17-20</mark>
 - la importancia de  obedecer los mandamientos.

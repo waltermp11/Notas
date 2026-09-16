@@ -69,3 +69,19 @@ Fecha : Julio 22 del 2026
 
 	**nota --> si vamos a tener otras, ponemos la opcion de un campo de texto o lo dejamos como otras?**
 ![[Pasted image 20260827102739.png|400]]
+
+
+
+****
+# Ajustes de Pagina
+
+### Pagina --> Contactos
+
+- Tiene otro tipo de letra.
+
+<strong class="rosa-encendido">
+Titulos o negrillas</strong>
+
+
+
+![[Pasted image 20260916005134.png]]
