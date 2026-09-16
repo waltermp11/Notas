@@ -40,3 +40,21 @@ https://bible.com/bible/149/mat.5.11.RVR1960
 
 - <mark class="verde">VITUPERAR</mark> --> *Lo entendemos como todo aquello hacia la critica, malos pensamientos, desaprobar de forma intencional de que esta mal, rechazar. *
 
+***
+
+## Jesus y la ley
+
+<mark class="naranja">Mateo 5:17-20</mark>
+- la importancia de  obedecer los mandamientos.
+- Jesús vino a **darle importancia a los mandamientos.**
+
+### <strong class="rosa-encendido">QUE TENEMOS QUE TENER EN CUENTA?</strong>
+
+- Todo es importante, en la biblia<mark class="verde"> todo tiene el mismo peso </mark>
+- No hay escatimacion de las cosas --> todo tiene un propósito como tal.
+
+
+<mark class="verde">NOTA --> Mateo 5:19</mark>
+La justicia vino a ser dada por Jesus, la justicia que se perdió, es porque no le damos el rol y el valor tan importante a la biblia y sus mandamientos
+
+- Trae grande y es llamado en el reino de los cielos como grande, ya que aprendió los mandamientos, los aprendió y tambien los compartió.
