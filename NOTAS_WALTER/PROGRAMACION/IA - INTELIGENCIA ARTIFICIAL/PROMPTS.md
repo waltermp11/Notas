@@ -31,7 +31,7 @@ La idea es no preguntar sin tener el conocimiento, vamos a limtar el prompt en 3
 # Como hacer un prompt correcto?
 
 1. Primera Verificacion del buen prompt
-	- Claridad
+	- *Claridad*
 	- concrecion
 	- especialidad
 	- Rol

@@ -5,16 +5,12 @@ Tipo de modelo artificial creado por *open ai*, que sirve para entender y crear 
 - usados para tareas especificas o repetitivas
 
 
-<mark class="verde">RECOMENDACIONESIA Y USO DE LA 
+##### <mark class="verde">RECOMENDACIONESIA Y USO DEL USO DE  
 </mark>
-- un GPT usara informacion que yo s
-- 
-- uba, propia mia, no material externo.
-- Sigue mis reglas, yo establezco los limites
-- Control de muestra de informacion, yo le doy la orden de como quiere mostar la informacion.
-
-![[Pasted image 20260916092646.png]]
-
+- Un GPT personalizado es para desarrollar tareas de texto.
+- Normalmente lo que hacemos es pasar informacion <mark class="verde">(*Veridica y que no sea informacion basura*</mark>)
+- Entender que es un <mark class="naranja">modelo de lenguaje personalizado</mark>
+![[Pasted image 20260916092646.png|700]]
 
 ****
 
@@ -62,10 +58,13 @@ Tengo que establecer el formato donde se ajuste mas mis respuestas
 La idea es recuperar datos de alta calidad.
 
 1. <strong class="rosa-encendido">USAR FUENTES INTERNAS</strong>
-2. USAR FUENTES EXTERNAS
+
+- Documentos que yo tenga para la alimentacion de las respuestas.
+- 
+1. <strong class="rosa-encendido">USAR FUENTES EXTERNAS</strong>
 Para la complementacion de informacion de fuentes publicas.
 
-3. <strong class="rosa-encendido">INCLUIR UNA VARIEDAD DE EJEMPLO</strong>
+2. <strong class="rosa-encendido">INCLUIR UNA VARIEDAD DE EJEMPLO</strong>
 - cubrir varios escenarios.
 - diversas situaciones.
 - incluir varios casos de soporte  como **preguntas de configuracion**
@@ -100,3 +99,10 @@ La idae es manejarlos por grupos -- categorias.
 
 
 
+
+
+
+****
+## como crear una GPT personalizado?
+
+Varia dependiendo del modelo de Ia que nosotros estamos usando.

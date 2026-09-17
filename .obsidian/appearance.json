@@ -1,11 +1,11 @@
 {
-  "baseFontSize": 18,
+  "baseFontSize": 14,
   "enabledCssSnippets": [
     "colores"
   ],
-  "cssTheme": "Obsidianite",
-  "theme": "obsidian",
-  "accentColor": "#5c66f5",
+  "cssTheme": "",
+  "theme": "moonstone",
+  "accentColor": "#0d1ce7",
   "baseFontSizeAction": true,
   "interfaceFontFamily": "",
   "textFontFamily": "Inter"

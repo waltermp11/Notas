@@ -6,7 +6,7 @@
   @page {
     size: A4;
     margin: 12mm 15mm;
-    background-color: #0d0a14 !important;
+    background-color: #ffffff !important;
   }
 
   .markdown-rendered ul ul,
@@ -26,117 +26,125 @@
 
   /* Fondo y colores principales */
   html, body, .markdown-rendered, .print {
-    background-color: #0d0a14 !important;
-    color: #b3b9c5 !important;
+    background-color: #ffffff !important;
+    color: #1e293b !important;
     -webkit-print-color-adjust: exact !important;
     print-color-adjust: exact !important;
   }
 
-  /* Encabezados en PDF (Sin bordes/líneas) */
+  /* Encabezados Azul Rey en PDF */
   .markdown-rendered h1 {
-    color: #84cc16 !important;
+    color: #1a56db !important;
     font-size: 22pt !important;
     border-bottom: none !important;
   }
 
   .markdown-rendered h2 {
-    color: #eab308 !important;
+    color: #1e40af !important;
     font-size: 16pt !important;
     border-bottom: none !important;
   }
 
   .markdown-rendered h3 {
-    color: #84cc16 !important;
+    color: #2563eb !important;
     font-size: 14pt !important;
     border-bottom: none !important;
   }
 
   /* Enlaces, Marcadores y Tags */
   .markdown-rendered a {
-    color: #38bdf8 !important;
+    color: #2563eb !important;
+    text-decoration: underline;
   }
 
   .tag {
-    background-color: #0e4e56 !important;
-    color: #22d3ee !important;
+    background-color: #e0e7ff !important;
+    color: #1e40af !important;
   }
 
   mark {
-    background-color: #5eead4 !important;
-    color: #042f2e !important;
+    background-color: #fef08a !important;
+    color: #854d0e !important;
   }
 }
 
 
 /* ===================================================
-   2. VARIABLES Y COLORES GENERALES
+   2. FUENTE GLOBAL, VARIABLES Y COLORES GENERALES
    =================================================== */
-body {
-  --list-marker-color: #92d050 !important;
-  --list-marker-color-collapsed: #80c038 !important;
+body,
+.markdown-rendered,
+.cm-content,
+.cm-line {
+  /* Fuente moderna, limpia y altamente legible */
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif !important;
+  color: #1e293b !important;
+  background-color: #ffffff !important;
 }
 
-/* Números y viñetas en color verde */
+body {
+  --list-marker-color: #2563eb !important;
+  --list-marker-color-collapsed: #1d4ed8 !important;
+}
+
+/* Números y viñetas en Azul Rey */
 .cm-formatting-list,
 .cm-list-bullet,
 .cm-formatting-list-ul,
 .cm-formatting-list-ol,
 .markdown-rendered ul > li::marker,
 .markdown-rendered ol > li::marker {
-  color: #92d050 !important;
+  color: #2563eb !important;
+  font-weight: bold;
 }
 
 
 /* ===================================================
-   3. ENCABEZADOS (H1, H2, H3, H4-H6)
+   3. ENCABEZADOS (H1 - H6) EN AZUL REY
    =================================================== */
-
-/* H1 y H2 estilizados (Línea inferior removida) */
 
 .cm-header-1, 
 .HyperMD-header-1, 
-.markdown-rendered h1{
-font-size: 55px !important;
-  color: #92d050 !important;
-  font-weight: 1000 !important;
-  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9) !important;
-  border-bottom: none !important;
-  padding-bottom: 0px;
-  margin-bottom: 3px;
-  
+.markdown-rendered h1 {
+  font-size: 38px !important;
+  color: #1a56db !important; /* Azul Rey Principal */
+  font-weight: 800 !important;
+  border-bottom: 2px solid #e2e8f0 !important;
+  padding-bottom: 4px;
+  margin-bottom: 12px;
+  text-shadow: none !important;
 }
 
 .cm-header-2, 
 .HyperMD-header-2, 
 .markdown-rendered h2 {
-  font-size: 35px !important;
-  color: #92d050 !important;
-  font-weight: 800 !important;
-  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9) !important;
+  font-size: 28px !important;
+  color: #1e40af !important; /* Azul Rey Medio */
+  font-weight: 700 !important;
   border-bottom: none !important;
   padding-bottom: 0px;
-  margin-bottom: 3px;
+  margin-bottom: 8px;
+  text-shadow: none !important;
 }
 
-/* H3 (Línea inferior removida) */
 .cm-header-3, 
+.HyperMD-header-3,
 .markdown-rendered h3 {
-  font-size: 35px !important;
-  font-weight: 800 !important;
-  border-bottom: none !important;
-  padding-bottom: 0px;
-  margin-bottom: 3px;
+  font-size: 22px !important;
+  color: #2563eb !important; /* Azul Rey Claro */
   font-weight: 600 !important;
   border-bottom: none !important;
-  font-weight: 800 !important;
-  text-shadow: 0 0 3px rgb(0, 255, 204) !important;
+  padding-bottom: 0px;
+  margin-bottom: 6px;
+  text-shadow: none !important;
 }
 
 /* H4, H5 y H6 */
 .cm-header-4, .markdown-rendered h4,
 .cm-header-5, .markdown-rendered h5,
 .cm-header-6, .markdown-rendered h6 {
-  color: #FFE066 !important;
+  color: #3b82f6 !important;
+  font-weight: 600 !important;
 }
 
 
@@ -148,21 +156,44 @@ b,
 .cm-strong, 
 .markdown-rendered strong {
   font-weight: 700 !important;
-  color: #ffffff !important;
+  color: #0f172a !important; /* Texto en negrita bien oscuro para fondo blanco */
 }
 
 mark.amarillo {
-  background-color: #ffe066;
-  color: #000000;
-  padding: 2px 4px;
-  border-radius: 3px;
+  background-color: #fef08a !important;
+  color: #713f12 !important;
+  padding: 2px 5px;
+  border-radius: 4px;
 }
 
 mark.verde {
-  background-color: #a8e6cf;
-  color: #000000;
-  padding: 2px 4px;
-  border-radius: 3px;
+  background-color: #bbf7d0 !important;
+  color: #14532d !important;
+  padding: 2px 5px;
+  border-radius: 4px;
+}
+
+mark.naranja {
+  background-color: #fed7aa !important;
+  color: #7c2d12 !important;
+  padding: 2px 5px;
+  border-radius: 4px;
+}
+
+/* Negrita destacada Naranja */
+strong.naranja-encendida,
+.cm-strong.naranja-encendida {
+  color: #ea580c !important;
+  font-weight: 800 !important;
+  text-shadow: none !important;
+}
+
+/* Negrita destacada Rosa/Fucsia */
+strong.rosa-encendido,
+.cm-strong.rosa-encendido {
+  color: #ff0000 !important;
+  font-weight: 800 !important;
+  text-shadow: none !important;
 }
 
 
@@ -170,20 +201,21 @@ mark.verde {
    5. ALINEACIÓN Y POSICIONAMIENTO DE LISTAS / VIÑETAS
    =================================================== */
 
-/* Sangría reducida en listas (de 1.8rem a 1.1rem) */
+/* Sangría de listas */
 ul, ol,
 .markdown-rendered ul, 
 .markdown-rendered ol {
-  padding-left: 1.1rem !important;
+  padding-left: 1.2rem !important;
   margin-left: 0 !important;
 }
 
 li,
 .markdown-rendered li {
   list-style-position: outside !important;
+  margin-bottom: 3px;
 }
 
-/* Reseteo de pseudo-elementos conflictivos */
+/* Reseteo de pseudo-elementos */
 .markdown-rendered li::before,
 .cm-line .list-bullet::before,
 li::before {
@@ -192,81 +224,66 @@ li::before {
   transform: none !important;
 }
 
-/* Alineación exacta de las viñetas en el Editor (Live Preview) */
+/* Alineación de viñetas en Editor (Live Preview) */
 .cm-formatting-list-ul,
 .cm-list-bullet,
 .list-bullet {
   display: inline-block !important;
   position: relative !important;
-  top: 6px !important; /* Baja la viñeta para centrarla con la línea de texto */
-  vertical-align: baseline !important;
+  top: 1px !important;
+  vertical-align: middle !important;
   margin-right: 4px !important;
 }
 
-/* Alineación en Modo Lectura */
+/* Modo Lectura */
 .markdown-rendered ul li::marker {
   vertical-align: middle !important;
 }
 
-/* Ajuste para listas de tareas (Checklists) */
+/* Ajuste para Checklists */
 .contains-task-list ul,
 .task-list-item ul {
-  padding-left: 1.1rem !important;
+  padding-left: 1.2rem !important;
 }
 
 
 /* ===================================================
-   ANARANJADOS (Marcador y Negrita)
+   6. CURSIVA (ITALIC) Y BLOQUES DE CÓDIGO
    =================================================== */
 
-/* Marcador anaranjado con <mark class="naranja"> */
-mark.naranja {
-  background-color: #c18dc8 !important;
-  color: #000000 !important;
-  padding: 2px 4px;
-  border-radius: 3px;
-}
-
-/* Negrita naranja encendida */
-strong.naranja-encendida,
-.cm-strong.naranja-encendida {
-  color: #ff5500 !important;
-  font-weight: 800 !important;
-  text-shadow: 0 0 6px rgba(ff, 85, 0, 0.6) !important;
-}
-
-
-/* ===================================================
-   NEGRITA ROSA ENCENDIDO / FUCSIA
-   =================================================== */
-strong.rosa-encendido,
-.cm-strong.rosa-encendido {
-  color: #ff5500 !important;
-  font-weight: 800 !important;
-  text-shadow: 0 0 3px rgb(128, 159, 255) !important;
-}
-
-/* ===================================================
-   TEXTO GENERAL TIPO CÓDIGO CIAN / TURQUESA
-   =================================================== */
-
-/* 1. Cambia la fuente global y color de texto */
-body,
-.markdown-rendered,
-.cm-content,
-.cm-line {
-  font-family: 'Fira Code', 'JetBrains Mono', 'Cascadia Code', monospace !important;
-   /* Color cian/turquesa de la imagen */
-}
-
-/* ===================================================
-   CORRECCIÓN DE CURSIVA (ITALIC)
-   =================================================== */
-
-/* Forzar que las etiquetas de cursiva sí apliquen inclinación */
 em,
 i,
 .cm-em,
 .markdown-rendered em {
   font-style: italic !important;
+}
+
+/* Código en línea con fuente monoespaciada manteniendo el cuerpo en la nueva fuente */
+code, .cm-inline-code {
+  font-family: 'Fira Code', 'Cascadia Code', Consolas, monospace !important;
+  background-color: #f1f5f9 !important;
+  color: #0f172a !important;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+
+/* ===================================================
+   4. FORMATO DE TEXTO (Negrita y Resaltados)
+   =================================================== */
+
+/* Negrita tanto en el editor (Live Preview / Source) como en lectura */
+strong, 
+b, 
+.cm-strong, 
+.cm-formatting-strong,
+.markdown-rendered strong {
+  font-weight: 700 !important;
+  color: #0f172a !important; /* Negro azulado muy oscuro y elegante */
+}
+
+/* Opcional: Si quieres que los asteriscos ** también tengan color tenue */
+.cm-formatting-strong {
+  color: #94a3b8 !important; /* Gris suave para los asteriscos de edición */
+  font-weight: normal !important;
 }
