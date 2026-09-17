@@ -58,3 +58,20 @@ https://bible.com/bible/149/mat.5.11.RVR1960
 La justicia vino a ser dada por Jesus, la justicia que se perdió, es porque no le damos el rol y el valor tan importante a la biblia y sus mandamientos
 
 - Trae grande y es llamado en el reino de los cielos como grande, ya que aprendió los mandamientos, los aprendió y tambien los compartió.
+
+
+
+
+****
+# Septiembre 16 del 2026
+### <strong class="rosa-encendido">Mateo 5:21-26</strong>
+	**
+*San Mateo 5:21-26 RVR1960
+[21] Oísteis que fue dicho a los antiguos: No matarás; y cualquiera que matare será culpable de juicio. [22] Pero yo os digo que cualquiera que se enoje contra su hermano, será culpable de juicio; y cualquiera que diga: Necio, a su hermano, será culpable ante el concilio; y cualquiera que le diga: Fatuo, quedará expuesto al infierno de fuego. [23] Por tanto, si traes tu ofrenda al altar, y allí te acuerdas de que tu hermano tiene algo contra ti, [24] deja allí tu ofrenda delante del altar, y anda, reconcíliate primero con tu hermano, y entonces ven y presenta tu ofrenda. [25] Ponte de acuerdo con tu adversario pronto, entre tanto que estás con él en el camino, no sea que el adversario te entregue al juez, y el juez al alguacil, y seas echado en la cárcel. [26] De cierto te digo que no saldrás de allí, hasta que pagues el último cuadrante.
+
+
+## **A que nos llama el Señor?**
+A la reconciliación con los hermanos, los hijos de Dios. Todos aquellos que creemos y recibimos, si nos hace hijos de Dios.*
+
+-  Dejar lo que estoy haciendo y <mark class="verde">Reconciliarse con el hermano.</mark>
+- 
