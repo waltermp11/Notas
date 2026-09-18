@@ -8,7 +8,7 @@
 ### AJUSTES CANCIONES PEGADAS
 
 - mover tu corazon + Es el. ✅
-- En los montes en los valles + Derrama de tu Fuego. ✅
+												- En los montes en los valles + Derrama de tu Fuego. ✅
 - Como David + La Cosecha. ✅
 - Remolineando + El Poderoso de Israel. ✅
 

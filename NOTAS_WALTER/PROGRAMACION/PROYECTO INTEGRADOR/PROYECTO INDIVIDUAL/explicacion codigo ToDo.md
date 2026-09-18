@@ -20,3 +20,18 @@ botonesPrioridad.forEach(boton => {
 
 
 
+<mark class="verde">**primera ronda**</mark>
+Walter - expongo
+sergio - evalua
+Andres - moderador
+
+
+<mark class="verde">**Segunda ronda**</mark>
+walter - evalua
+Sergio - modera
+andres - expone
+
+**Tercera ronda** 
+walter- moderador
+sergio - expone
+andres - evalua
