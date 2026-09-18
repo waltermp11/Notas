@@ -6,3 +6,11 @@ Dejando toda distraccion para el mejoramiento de concentracion.
 - <mark class="verde">Muro de descarga Mental</mark>
 
 En el muro de descarga mental, la idea es anotar las cosas que se me vienen a la cabeza.
+
+
+
+
+
+
+
+****

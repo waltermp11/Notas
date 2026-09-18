@@ -33,5 +33,24 @@
       "key": "3"
     }
   ],
-  "workspace:goto-tab-3": []
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "obsidian-excalidraw-plugin:save": [],
+  "quickadd:choice:21ff5283-a21e-421d-ac1e-977543233427": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "4"
+    }
+  ],
+  "workspace:goto-tab-5": [],
+  "quickadd:choice:f385b041-52e8-4805-a5ba-3831b17a9e38": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "4"
+    }
+  ]
 }
