@@ -111,4 +111,10 @@ La idea al tener este prompt es poder verificar que resultados me arrojan las ot
 2. Se le dio permisos a Copilot, para que  creara los archivos de la aplicacion :
 
 
-	https://generation.instructure.com/courses/4652/assignments/343496/taking/1408892?module_item_id=3182783
+
+## donde quede estudiando ✅
+- https://generation.instructure.com/courses/4652/assignments/343496/taking/1408892?module_item_id=3182783
+
+
+
+	

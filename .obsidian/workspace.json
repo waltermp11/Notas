@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/IA - INTELIGENCIA ARTIFICIAL/PROYECTO CON IA/PROYECTO IA.md",
+                "file": "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/JAVASCRIPT/javascript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROYECTO IA"
+              "title": "javascript"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 380.5
   },
   "right": {
     "id": "75ef702d8a032a5b",
