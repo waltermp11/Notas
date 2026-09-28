@@ -63,7 +63,8 @@ La idea es recicir las ofertas y dar comunicacion de las ofertas que me manda la
 
 
 
-- comorse el sapo
+- Comerse el sapo --> hacer la tarea mas complicada primero.
+
 
 
 
