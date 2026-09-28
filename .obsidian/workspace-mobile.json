@@ -11,12 +11,14 @@
             "id": "5c0b0543828b118f",
             "type": "leaf",
             "state": {
-              "type": "css-editor-view",
+              "type": "markdown",
               "state": {
-                "file": "colores.css"
+                "file": "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/EMPLEABILIDAD - PORTAFOLIO/PREPARACION PARA ENTREVISTA TECNICA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "css-editor-logo",
-              "title": "colores"
+              "icon": "lucide-file",
+              "title": "PREPARACION PARA ENTREVISTA TECNICA"
             }
           },
           {
@@ -47,8 +49,7 @@
               "title": "javascript"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,8 +211,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fbd29d561d77be7f",
+  "active": "5c0b0543828b118f",
   "lastOpenFiles": [
+    "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/JAVASCRIPT/javascript.md",
     "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/BASES DE DATOS/Bases de datos.md",
     "NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL/PERSONAL.md",
     "NOTAS_WALTER/PERSONAL/IGLESIA/MVE REUNIONES/VENTAS.md",

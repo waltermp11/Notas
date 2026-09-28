@@ -6,7 +6,7 @@
 
 	ENTONCES, POO es un paradigma de codigo que estructura el codigo usando **objetos!!, combinando datos y Comportamientos**
 
-**4 Pilares de la Programacion Orientada a Objetos**
+**4 Pilares de la Programacion Orientada a Objetos** un camibio
 
 - <mark class="verde">Encapsulamiento</mark>
 - <mark class="verde">Herencia</mark>
