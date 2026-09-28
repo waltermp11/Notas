@@ -30,7 +30,7 @@ la informacion entra de muchas maneras.
 
 1. **Documento** --> formato Json
 2. **Clave - valor**
-3. **columna anacha** 
+3. **columna ancha** 
 4. **Grafo**
 
 

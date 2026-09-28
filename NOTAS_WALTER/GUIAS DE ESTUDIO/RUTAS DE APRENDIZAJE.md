@@ -11,10 +11,10 @@
 
 ****
 ## Recomendaciones
-- Entender typescript
-- Entender las documentaciones que tenemos que entender ( *Esforzar*)
+- Entender typescript ?
+- Entender las documentaciones  ( *Esforzar*)
 - Aprender ingles --> buenos trabajos oportunidades, pero tambien para la lectura de la documentacion.
-- Refactoring UI - tambien para productos.
+- Refactoring UI --> tambien para productos.
 - Clean Code --> libro de lectura.
 - Buscar un Stack ✅
 
