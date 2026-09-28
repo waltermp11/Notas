@@ -1,4 +1,4 @@
-# REUNION DE FAMILIAR
+%%%%# REUNION DE FAMILIAR
 
 <mark class="azul-encendido">CUANTO VAMOS A DONAR A ANA?</mark>
 - 15% de la ganancia real que tiene MVE
@@ -8,7 +8,7 @@
 
 ****
 
-## <mark class="azul-encendido">DISTRIBUCION DE DINERO </mark>
+## <mark class="azul-encendido">DISTRIBUCION DE DINERO </mark>%%%%
 
 **valor neto  --> 640560 COP**
 
@@ -22,5 +22,5 @@ El dia donde Juanjo trabajo solo va a tener 80% de ganancia, separando el diezmo
 <mark class="verde">Juan Jose</mark> --> 211240
 <mark class="verde">Walter</mark> --> 299730
 
-
+<H1>Paz</H1>
 
