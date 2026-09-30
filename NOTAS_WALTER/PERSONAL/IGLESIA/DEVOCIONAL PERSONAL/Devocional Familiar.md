@@ -92,3 +92,35 @@ A la reconciliación con los hermanos, los hijos de Dios. Todos aquellos que cre
 - Ser radical a la hora de tomar decisiones. *(<mark class="verde">Todo empieza desde la mirada al principio, empieza nuestro cerebro a maquinas cosas)</mark>* .
 - 
 
+
+****
+# SEPTIEMBRE 28 DEL 2026
+
+*<mark class="verde">MATEO 5: 38 - 48</mark>*
+
+- Amor hacia los enemigos.
+-  Hacer lo ilógico para el mundo y lo lógico para Dios.
+
+
+
+
+
+****
+
+
+
+# Septiembre 29 del 2026
+
+<mark class="verde">MATEO 6: 1-4</mark>
+
+*“<mark class="naranja">»Cuando alguno de ustedes ayude a los pobres, no se lo cuente a nadie. Así esa ayuda se mantendrá en secreto, y Dios el Padre, que conoce ese secreto, les dará a ustedes su premio.”*
+*Mateo 6:3-4 TLA</mark>
+
+- **Para quien es la gloria ?** --> 
+	la idea es ayudar pero sin decir que ayudamos, la idea es que todo se permanezca en secreto
+- Dios mira el corazon de la persona.
+	- **Glorifica a Dios o no glorifica a Dios?**
+
+
+
+https://bible.com/bible/176/mat.6.3-4.TLA
