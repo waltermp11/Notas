@@ -160,3 +160,10 @@ FROM miembros AS m
 LEFT JOIN membresias AS mem ON m.id = mem.miembro_id
 ```
 
+# hola
+## asi
+### asi
+
+#tabla 
+- [[javascript]]
+- 

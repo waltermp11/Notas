@@ -1,4 +1,4 @@
-
+%%%%
 # Devocional Familiar
 
 
@@ -75,3 +75,52 @@ A la reconciliación con los hermanos, los hijos de Dios. Todos aquellos que cre
 
 -  Dejar lo que estoy haciendo y <mark class="verde">Reconciliarse con el hermano.</mark>
 - 
+
+
+**** 
+# SEPTIEMBRE 17 del 2026
+
+
+
+*Mateo 5:27-32 TLA
+[27] »Moisés también dijo: “No sean infieles en su matrimonio”. [28] Pero ahora yo les aseguro que si un hombre mira a otra mujer con el deseo de tener relaciones sexuales con ella, ya fue infiel en su corazón. [29] »Si lo que ves con tu ojo derecho te hace desobedecer a Dios, es mejor que te lo saques y lo tires lejos. Es preferible que pierdas una parte del cuerpo y no que todo tu cuerpo sea arrojado al infierno. [30] Si lo que haces con tu mano derecha te hace desobedecer, es mejor que te la cortes y la tires lejos. Es preferible que pierdas una parte de tu cuerpo y no que todo tu cuerpo se vaya al infierno. [31] »También hace mucho tiempo Moisés dijo: “Si alguno ya no quiere vivir casado con su mujer, dele un certificado de divorcio”. [32] Pero ahora yo les digo que el hombre sólo puede divorciarse si su esposa tiene relaciones sexuales con otro hombre. Si se divorcia de su esposa por otra razón, la pone en peligro de cometer ese mismo pecado. Si esa mujer vuelve a casarse, tanto ella como su nuevo esposo serán culpables de adulterio.
+
+
+## **QUE SE ENTIENDE?**
+
+- No a la infidelidad en medio del matrimonio.
+- Ser radical a la hora de tomar decisiones. *(<mark class="verde">Todo empieza desde la mirada al principio, empieza nuestro cerebro a maquinas cosas)</mark>* .
+- 
+
+
+****
+# SEPTIEMBRE 28 DEL 2026
+
+*<mark class="verde">MATEO 5: 38 - 48</mark>*
+
+- Amor hacia los enemigos.
+-  Hacer lo ilógico para el mundo y lo lógico para Dios.
+
+
+
+
+
+****
+
+
+
+# Septiembre 29 del 2026
+
+<mark class="verde">MATEO 6: 1-4</mark>
+
+*“<mark class="naranja">»Cuando alguno de ustedes ayude a los pobres, no se lo cuente a nadie. Así esa ayuda se mantendrá en secreto, y Dios el Padre, que conoce ese secreto, les dará a ustedes su premio.”*
+*Mateo 6:3-4 TLA</mark>
+
+- **Para quien es la gloria ?** --> 
+	la idea es ayudar pero sin decir que ayudamos, la idea es que todo se permanezca en secreto
+- Dios mira el corazon de la persona.
+	- **Glorifica a Dios o no glorifica a Dios?**
+
+
+
+https://bible.com/bible/176/mat.6.3-4.TLA

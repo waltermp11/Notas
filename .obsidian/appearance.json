@@ -1,12 +1,3 @@
 {
-  "baseFontSize": 19,
-  "enabledCssSnippets": [
-    "colores"
-  ],
-  "cssTheme": "",
-  "theme": "moonstone",
-  "accentColor": "#0d1ce7",
-  "baseFontSizeAction": true,
-  "interfaceFontFamily": "",
-  "textFontFamily": "Inter"
+  "theme": "moonstone"
 }

@@ -35,7 +35,7 @@ hoy vamos a ver el DOM
 
 ## Propiedades que nosotros tenemos en JS 
 
-tenemos las siguientes dos propiedades donde tenemos:
+tenemos las siguientes dos propiedades :
 
 1. **textContent** 
 2. **innerHTML**
@@ -66,7 +66,7 @@ tenemos las siguientes dos propiedades donde tenemos:
 
 Pero todo orientado a las clases
 
-## SetAttribute
+# SetAttribute
 Modifica un atributo personalizado
 
 
@@ -103,7 +103,7 @@ una API es una aplicacion que interactua con **cliente y servidor**.
 
 **** 
 
-# API - CONSUMO DE ESTAS
+# API - (CONSUMO) 
 
 - Entendemos que es una API.
 
@@ -123,7 +123,7 @@ Conceptos claves para el entendemiento  de consumo de APIs
 
 - <strong class="rosa-encendido">funcion integrada de JavaScript</strong>, ojo este nos sirve para solicitar las tipicas situaciones:
 	- <mark class="verde">GET, POST, DELETE, PUT</mark>
-	- Esta función integrada --><mark class="verde"> SIEMPRE RETOMA UNA PROMESA</mark>
+	- Esta función integrada --><mark class="verde"> SIEMPRE RETORNA  UNA PROMESA</mark>
 
 
 <mark class="azul-encendido">
@@ -161,4 +161,23 @@ Entonces cuando la informacion llega --> se renderiza la informacion! ✅
 Tenemos que entender que es una palabra reservada que solo sea usa en la <mark class="naranja">funcion asincrona</mark>
 
 - --> AWAIT para la funcion hasta que se resuelva o se tenga una promesa.
+
+<mark class="naranja">OSEA </mark>--> se espera hasta que se tenga una respuesta por parte del servidor.
+
+
+
+
+# EJEMPLO DE SECUENCIA
+1. Tengo la funcion async --> donde se obtiene la DATA del servidor.
+2. Tenemos dentro de ella normalmente un *<mark class="verde">try catch</mark>
+
+
+<mark class="naranja">
+NOTA </mark>
+*normalmente El try Cath lo entendemos como -- prueba esto, si tira error, coge el error y normalmente lo mostramos o renderizamos para saber que sucedio.*
+
+
+3. <mark class="azul-encendido">Await fecth</mark> (*url, normalmente el endpoint lo guardamos en una URL*)
+4. await (*Aca con la informacion o la variable --> .json*)
+	1. Se hace la conversion a informacion json.
 
