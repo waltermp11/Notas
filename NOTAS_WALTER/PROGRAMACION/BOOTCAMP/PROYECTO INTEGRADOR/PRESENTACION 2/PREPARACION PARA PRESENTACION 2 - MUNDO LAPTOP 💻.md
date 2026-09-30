@@ -22,7 +22,24 @@ herramienta de trabajo, por eso nace *mundo laptop* a vender portátiles, nuevos
 open box y repotenciados, con el fin de que el problema solo este entre la pantalla y
 la silla, Y NO DEL PORTÁTIL.
 
-**EXPLICACION PROBLEMATICA**
+****
+**Hola a todos, antes de empezar quiero desmentir los mitos mas comunes de la  tecnologica.
+- <mark class="verde">“lo usado no dura “ → explicación</mark>
+    
+¡Falso! 🛑 Si un equipo pasa por un mantenimiento profesional y se revisa a fondo, sus componentes clave (como el procesador y la placa) siguen rindiendo al 100%. Un equipo usado de buena marca puede durar años funcionando impecable 
+
+
+- <mark class="verde">“ Un repotenciado es lento” → explicación</mark>
+    
+¡Para nada! 🚀 Al repotenciar, le cambiamos el disco duro antiguo por un SSD ultrarrápido y le ampliamos la memoria RAM. ¿El resultado? El equipo vuela y rinde mucho más.
+
+  
+- <mark class="verde">“Comprar Laptops online es riesgoso” → explicación</mark>
+    
+
+¡Depende de dónde compres! 🔒 En plataformas formales y confiables tienes garantía por escrito, comprobante legal y plataformas de pago seguras. El riesgo desaparece cuando eliges a los expertos correctos.**
+
+<mark class="naranja">**EXPLICACION PROBLEMATICA**</mark>
 
 - En el mercado actual existe una gran brecha entre la expectativa de <mark class="verde">compra</mark> y el <mark class="verde">rendimiento real</mark> de los equipos portátiles. 
 - Estudiantes, <mark class="verde">programadores, creadores y profesionales</mark> adquieren laptops invirtiendo presupuestos altos,  *bajo la promesa* de obtener un equipo de "buena calidad".
