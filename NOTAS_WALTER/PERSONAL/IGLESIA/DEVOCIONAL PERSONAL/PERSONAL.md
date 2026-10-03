@@ -51,3 +51,57 @@ Lo santo es aquello que es *APARTADO!*, exclusivo para el Padre, tengo que tener
 
 - Creo que antes de regañar, llamar la atencion, el llamado principal es hacia mi mismo, yo no debo ser juez, yo debo ser ejemplo vivo de Jesus,dar ejemplo y retroalimentar en amor.
 - Primero debo ser claro con mis cosas, para ayudar al otro,**sin fingir**. Sin decir principios erroneos
+
+
+
+
+
+
+****
+
+# DEVOCIONAL - OCTUBRE 1 -2  DEL 2026
+
+Tomando decisiones, un dia largo Padre, un dia donde sigo enfermo y pues entregaron los resultados de mi mamá.
+
+- Me entregaron resultados de mi mamá.
+-  Manuela tuvo un problema donde posiblemente la echen de la casa.
+
+
+
+
+
+
+
+****
+
+# CITA con el lider William
+
+- sanidad en el area de autoridad.
+	<mark class="naranja">NOTA </mark>--><mark class="naranja">Diotrefes - 3 Juan </mark>
+
+cuando hay una herida de la autoridad hay un mal ejercimiento de la misma autoridad. --> Diotrefes.
+
+-  <mark class="verde">Tengo una herida</mark> --> llevar la herida a Cristo.
+- Con su ejemplo Demetrio lo imitaban, **porque este hacia lo bueno**
+
+
+## QUE TENGO YO?
+
+- Ayudar a las personas o perjudicarlas?
+- Me ha tocado sentir un corazon con la autoridad con la herida que me causo mi autoridad?
+
+- <mark class="naranja">Dios permite las autoridades en mi vida para yo sanar.</mark>
+
+Me han tocado personas que en medio de eso, me he sentido abusado cuando me tengan.
+
+
+
+Levitas y Herida --> 
+
+
+
+
+<mark class="verde">Malaquias 2:5</mark>
+
+- Pacto de Levi --> *Las personas que le sirven, todo aquel que le sirve.*.
+- 
