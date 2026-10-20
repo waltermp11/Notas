@@ -124,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hackerrank/Hackerrank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hackerrank"
+              "title": "Backlinks"
             }
           },
           {
@@ -143,12 +142,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackerrank/Hackerrank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hackerrank"
+              "title": "Outgoing links"
             }
           },
           {
@@ -202,11 +200,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,8 +224,8 @@
   },
   "active": "9dd5666c0323e5f4",
   "lastOpenFiles": [
-    "Walter Notes/NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL/Devocional Familiar.md",
     "Walter Notes/NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL/PERSONAL.md",
+    "Walter Notes/NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL/Devocional Familiar.md",
     "Walter Notes/PRUEBAS UNITARIAS.md",
     "Walter Notes/REUNIONES MVE.md",
     "Walter Notes/Untitled 2.base",
