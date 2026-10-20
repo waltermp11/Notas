@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS_WALTER/INGLES/GUIA DE ESTUDIO.md",
+                "file": "NOTAS_WALTER/PERSONAL/IGLESIA/MVE REUNIONES/REUNIONES DE DIRECTORES DE MVE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GUIA DE ESTUDIO"
+              "title": "REUNIONES DE DIRECTORES DE MVE"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/LABORATORIOS DE EMPLEABILIDAD/LABORATORIO.md",
+                "file": "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/EMPLEABILIDAD REUNIONES 1 A 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LABORATORIO"
+              "title": "EMPLEABILIDAD REUNIONES 1 A 1"
             }
           },
           {
@@ -48,9 +48,22 @@
               "icon": "lucide-file",
               "title": "SONGS"
             }
+          },
+          {
+            "id": "e5aa3eb532775c36",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,42 +181,18 @@
             }
           },
           {
-            "id": "e5aa3eb532775c36",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "e817217c668b61b5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackerrank/Hackerrank.md",
+                "file": "NOTAS_WALTER/PROGRAMACION/AI/IA - APRENDIZAJE  INDIVIDUAL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hackerrank"
-            }
-          },
-          {
-            "id": "85d10ab2ce19c966",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "quiet-outline"
+              "title": "Outline"
             }
           },
           {
@@ -227,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -247,24 +236,39 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9dd5666c0323e5f4",
+  "active": "de3c2d2cb2aad982",
   "lastOpenFiles": [
-    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/LABORATORIOS DE EMPLEABILIDAD/LABORATORIO.md",
+    "REUNIONES MVE.md",
+    "NOTAS_WALTER/PERSONAL/IGLESIA/MVE REUNIONES/REUNIONES DE DIRECTORES DE MVE.md",
+    "PRUEBAS UNITARIAS.md",
+    "NOTAS_WALTER/INGLES/A1/A1 - KNOWLEDGE.md",
+    "NOTAS_WALTER/PROGRAMACION/AI/IA - APRENDIZAJE  INDIVIDUAL.md",
+    "NOTAS_WALTER/ESTUDIO PERSONAL/COMO APRENDER RAPIDO.md",
+    "NOTAS_WALTER/ESTUDIO PERSONAL/ESTUDIO PERSONAL - COMO APRENDER Y RETENER.md",
+    "NOTAS_WALTER/PROGRAMACION/AI",
+    "NOTAS_WALTER/INGLES/GUIA DE ESTUDIO.md",
     "NOTAS_WALTER/INGLES/VOCABULARY.md",
+    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/EMPLEABILIDAD REUNIONES 1 A 1.md",
+    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/EMPLEABILIDAD.md",
+    "2026-10-06.md",
+    "NOTAS_WALTER/INGLES/SONGS.md",
+    "NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL/PERSONAL.md",
+    "imagenes/Pasted image 20261004124710.png",
+    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/LABORATORIOS DE EMPLEABILIDAD/LABORATORIO.md",
+    "Untitled 2.canvas",
+    "Untitled 2.base",
+    "Untitled 1.canvas",
+    "2026-10-01.md",
     "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/LABORATORIOS DE EMPLEABILIDAD",
     "imagenes/Pasted image 20260930220500.png",
     "imagenes/Pasted image 20260930220458.png",
-    "NOTAS_WALTER/INGLES/GUIA DE ESTUDIO.md",
-    "NOTAS_WALTER/INGLES/SONGS.md",
     "imagenes/Pasted image 20260930215440.png",
     "imagenes/Pasted image 20260930215420.png",
-    "NOTAS_WALTER/INGLES/A1/A1 - KNOWLEDGE.md",
     "imagenes/Pasted image 20260930214648.png",
     "imagenes/Pasted image 20260930213354.png",
     "imagenes/Pasted image 20260930213256.png",
     "imagenes/Pasted image 20260930134151.png",
     "NOTAS_WALTER/INGLES/A1",
-    "NOTAS_WALTER/ESTUDIO PERSONAL/ESTUDIO PERSONAL - COMO APRENDER Y RETENER.md",
     "NOTAS_WALTER/GUIAS DE ESTUDIO/RUTAS DE APRENDIZAJE.md",
     "NOTAS_WALTER/ESTUDIO PERSONAL",
     "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/BASES DE DATOS/Bases de datos.md",
@@ -274,28 +278,15 @@
     "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/BASES DE DATOS/TALLERES/Taller 4 - Joins.md",
     "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/BASES DE DATOS/NO RELACIONALES/BASES DE DATOS NO RELACIONALES.md",
     "NOTAS_WALTER/SALESFORCE/SALESFORCE.md",
-    "PRUEBAS UNITARIAS.md",
     "Untitled.md",
     "Untitled.base",
     "Untitled.canvas",
     "Untitled 1.md",
     "Untitled 1.base",
     "Untitled 2.md",
-    "Untitled 3.md",
-    "Untitled 4.md",
-    "NOTAS_WALTER/PERSONAL/IGLESIA/REUNIONES FAMILIARES/REUNIONES MVE.md",
-    "NOTAS_WALTER/PERSONAL/IGLESIA/MVE REUNIONES/REUNION LIDER WILLIAM Y NELLY.md",
-    "NOTAS_WALTER/PERSONAL/IGLESIA/MVE REUNIONES/VENTAS.md",
-    "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/PROYECTO INTEGRADOR/PRESENTACION 2/PREPARACION PARA PRESENTACION 2 - MUNDO LAPTOP 💻.md",
     "imagenes/Pasted image 20260924222833.png",
     "NOTAS_WALTER/SALESFORCE",
-    "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/IA - INTELIGENCIA ARTIFICIAL/RECOMENDACIONES.md",
-    "NOTAS_WALTER/GUIAS DE MANTENIMIENTO/MANTENIMIENTO  - TORRE.md",
     "NOTAS_WALTER/GUIAS DE MANTENIMIENTO",
-    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/PREPARACION PARA ENTREVISTA TECNICA.md",
-    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO",
-    "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/IA - INTELIGENCIA ARTIFICIAL/PROYECTO CON IA",
-    "imagenes/Pasted image 20260916144106.png",
     "DESARROLLO  - ESTUDIO - BOOTCAMP/imagenes/Untitled.canvas",
     "NOTAS_WALTER/PROGRAMACION/imagenes/Untitled.canvas"
   ]

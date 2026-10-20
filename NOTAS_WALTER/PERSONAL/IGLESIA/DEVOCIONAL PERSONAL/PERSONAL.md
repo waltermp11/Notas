@@ -104,4 +104,54 @@ Levitas y Herida -->
 <mark class="verde">Malaquias 2:5</mark>
 
 - Pacto de Levi --> *Las personas que le sirven, todo aquel que le sirve.*.
-- 
+
+
+
+
+
+
+
+****
+
+# OCTUBRE 5 DEL 2026
+
+Hoy entrego mi corazon, todo pensamiento negativo al Padre, donde nada mas importara, que es restaurar la relacion, dejando todo pecado:
+
+
+- **adiccion**
+- **Masturbacion**
+-  **Mentiras**
+- **Manipulacion**
+- **Codicia**
+
+
+Renuncio a todo aquello que no me trae bendicion, entrego mi tiempo, asi tambien como lo dije en mi oracion, entregando mi mente, todo pensamiento **negativo de mi vida, lo entrego que sea propia hacia mi**.
+
+
+### <mark class="verde">SALMO 51:6</mark>
+
+"*He aquí, tú amas la verdad en lo íntimo, y en lo secreto me has hecho comprender sabiduría*"
+
+**Que tengo que hacer?**
+Tengo que decir la verdad en lo intimo.
+
+**<mark class="naranja">en lo intimo que es?</mark>**
+mi devocional, en lo secreto donde no hay nadie, donde le pregunto esto al Padre, "*no entiendo que es esto, ayudame a comprender **espiritu santo**, porque mi **humanidad** y mi **razonamiento** **no quiero que tengan protagonismo** aqui."*
+
+
+
+ahora, quiero experimentar una limpieza como lo dice en el salmo 51:7
+
+### <mark class="naranja">SALMO 51:7</mark>
+---
+"*Purifícame con hisopo, y seré limpio;*
+*Lávame, y seré más blanco que la nieve.*"
+
+
+- <mark class="verde">Purificame</mark>, limpiame con ese hisopo, delicado, cada cosa profunda que hay en mi vida, limpiame de mi maldad, limpiame aun de esos pecados repetitivos que me han hecho esclavo.
+- <mark class="verde">Lavame</mark> --> por que lavamos? para quitar toda mancha que ha quedado en aquello permanente, donde normalmente que sucede? **normalizo la mancha en mi vida y limito a mi Padre en el cielo.**
+
+---
+
+
+
