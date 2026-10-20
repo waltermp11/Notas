@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Walter Notes/NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL/PERSONAL.md",
+                "file": "Walter Notes/NOTAS_WALTER/PERSONAL/IGLESIA/MVE REUNIONES/REUNIONES DE DIRECTORES DE MVE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PERSONAL"
+              "title": "REUNIONES DE DIRECTORES DE MVE"
             }
           },
           {
@@ -108,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 336.09000396728516
   },
   "right": {
     "id": "75ef702d8a032a5b",
@@ -224,6 +224,7 @@
   },
   "active": "9dd5666c0323e5f4",
   "lastOpenFiles": [
+    "Walter Notes/NOTAS_WALTER/PERSONAL/IGLESIA/MVE REUNIONES/VENTAS.md",
     "Walter Notes/NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL/PERSONAL.md",
     "Walter Notes/NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL/Devocional Familiar.md",
     "Walter Notes/PRUEBAS UNITARIAS.md",
@@ -263,7 +264,6 @@
     "NOTAS_WALTER/ESTUDIO PERSONAL/ESTUDIO PERSONAL - COMO APRENDER Y RETENER.md",
     "NOTAS_WALTER/PROGRAMACION/AI",
     "NOTAS_WALTER/INGLES/GUIA DE ESTUDIO.md",
-    "NOTAS_WALTER/INGLES/VOCABULARY.md",
     "imagenes/Pasted image 20261004124710.png",
     "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/LABORATORIOS DE EMPLEABILIDAD",
     "imagenes/Pasted image 20260930220500.png",
