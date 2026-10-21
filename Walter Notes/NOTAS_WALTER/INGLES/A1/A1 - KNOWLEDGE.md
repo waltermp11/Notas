@@ -109,8 +109,7 @@ Examples to have presents
 ![[Pasted image 20260930214648.png]]
 
 ****
-# Countable and Uncountable NounS
-
+# Countable and Uncountable Nouns
 Use to express specific quantitys or in the other hand We will use a container to meause our thing. 
 
 
