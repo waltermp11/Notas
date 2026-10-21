@@ -21,4 +21,8 @@ La idea es hacer seguimiento a las ofertas que me manda la profesora a traves de
 
 
 
-PRUEBA DE SINCRONIZACION
+<mark style="background: #BBFABBA6;">PRUEBA DE SINCRONIZACION</mark>
+
+- quiero ver como queda en la tablet.
+- Quiero que se comporte de una manera rapida, tambien teniendo en cuenta que sea automatico o con los comandos.
+- 
