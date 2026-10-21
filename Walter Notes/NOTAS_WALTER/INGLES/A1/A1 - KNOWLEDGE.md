@@ -2,7 +2,21 @@
 # CONTENT TABLE
 
 - [[#Present Simple y Hábitos / Present Simple & Habits]]
+- [[#Countable and Uncountable Nouns.****]]
 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## What is it? and when is it used?
 
 Ser and estar, in english We have the same, instead in one word
@@ -95,9 +109,9 @@ Examples to have presents
 ![[Pasted image 20260930214648.png]]
 
 ****
-# Countable and Uncountable Nouns.****
+# Countable and Uncountable NounS
 
-- Use to express specific quantitys or in the other hand We will use a container to meause our thing. 
+Use to express specific quantitys or in the other hand We will use a container to meause our thing. 
 
 
 ## COUNTABLES
