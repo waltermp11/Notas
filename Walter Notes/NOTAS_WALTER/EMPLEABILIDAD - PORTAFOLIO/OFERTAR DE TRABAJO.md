@@ -18,3 +18,7 @@ La idea es hacer seguimiento a las ofertas que me manda la profesora a traves de
 - Pide cosas como de servicio al cliente o fidelizacion
 - Como instalacion de software, explicacion a los inmobiliarios y que estos queden fidelizados los clientes a la plataforma.
 
+
+
+
+PRUEBA DE SINCRONIZACION
