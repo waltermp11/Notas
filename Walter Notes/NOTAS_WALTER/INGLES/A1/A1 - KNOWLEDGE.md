@@ -6,7 +6,7 @@ Ser and estar, in english We have the same, instead in one word
 **To be**
 
 
-<mark class="naranja">MAIN USES </mark>--> usos **principales**:
+<mark style="background: #BBFABBA6;"><mark class="naranja">MAIN USES </mark></mark>--> usos **principales**:
 
 
 - Identity and names.
@@ -54,9 +54,10 @@ Ser and estar, in english We have the same, instead in one word
 
 
 
-so in english We have  a key expressions to say habits
+so in english We have  a key expressions to say habits --> Normal expressiones that We use when We talk with the others.
 
 - <mark class="verde">always</mark> --> 100% -- siempre!
+
 	- I always turn on the tower fan because my bedroom doestn have a great <mark class="naranja">*airflow ( flujo de aire)*</mark>
 
 - <mark class="verde">Usually</mark> --> 80% -- usualmente
