@@ -8,3 +8,4 @@ Prueba cuanto se demora
 Solo quiero hacer un ajustes para se ve el ajustes cuando 
 
 
+Probando sincronia
