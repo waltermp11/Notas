@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "3859d99797202f2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d81299701a6e6d5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86df9bff5ae61b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROGRAMACION/BASES DE DATOS/Taller.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taller"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59a4ceaea61751c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee062ca33b29f738",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "776882e0b87ba266",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5c8d5a021f68fb06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4bd6321ca056e5ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a8cf8b3f259080a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e722e5e8665ce6ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ddbbbf3b0c8823e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PROGRAMACION/BASES DE DATOS/Taller.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "dea3d1c7af4aaa36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PROGRAMACION/BASES DE DATOS/Taller.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1145940381d05740",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "86153cb2ca2f440e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f9d6730fbf96d3fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PROGRAMACION/BASES DE DATOS/Taller.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "86df9bff5ae61b74",
+  "lastOpenFiles": [
+    "PROGRAMACION/EMPLEABILIDAD - PORTAFOLIO/Untitled.md",
+    "PROGRAMACION/BASES DE DATOS/Bases de datos.md",
+    "PROGRAMACION/EMPLEABILIDAD - PORTAFOLIO/Preparacion para Empleo.md",
+    "PROGRAMACION/EMPLEABILIDAD - PORTAFOLIO/PORTAFOLIOS.md",
+    "PROGRAMACION/EMPLEABILIDAD - PORTAFOLIO/Entrevistas Tecnicas.md",
+    "PROGRAMACION/EMPLEABILIDAD - PORTAFOLIO/EMPLEABILIDAD.md"
+  ]
+}

@@ -1,0 +1,2 @@
+# RECOMENDACIONES DE IA
+![[Pasted image 20260924222833.png]]

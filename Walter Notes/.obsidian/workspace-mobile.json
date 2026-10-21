@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "d7fdb56e17f8a926",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dabdb4829f32edb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c0b0543828b118f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL/PERSONAL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PERSONAL"
+            }
+          },
+          {
+            "id": "3ba2fe3df5ca602b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REUNIONES MVE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REUNIONES MVE"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6bd92db57e4cf3f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d4a4905510597913",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b6ce6bc218a5abe0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": true,
+            "explainSearch": true,
+            "collapseAll": true,
+            "extraContext": true,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0c08bed68615aef0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "10196b64f01f1858",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "94cea9f1667b6804",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "95e4696e6ffb603c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9303c2b3c2f3fa83",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL/Devocional Familiar.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "921be7698b007b77",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Proyecto Personal.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "de7ef65522c5253a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Proyecto Personal.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "53fce568d86332ec",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      },
+      {
+        "id": "a4d5f6d3b779e795",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {},
+          "icon": "spreadsheet",
+          "title": "Advanced Tables"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "css-editor:Open CSS editor quick switcher": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "3ba2fe3df5ca602b",
+  "lastOpenFiles": [
+    "NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL/PERSONAL.md",
+    "REUNIONES MVE.md",
+    "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/JAVASCRIPT/javascript.md",
+    "NOTAS_WALTER/PERSONAL/IGLESIA/DEVOCIONAL PERSONAL/Devocional Familiar.md",
+    "Untitled 2.canvas",
+    "2026-10-01.md",
+    "Untitled 1.canvas",
+    "Untitled 2.base",
+    "imagenes/Pasted image 20260930220500.png",
+    "imagenes/Pasted image 20260930220458.png",
+    "imagenes/Pasted image 20260930215440.png",
+    "imagenes/Pasted image 20260930215420.png",
+    "imagenes/Pasted image 20260930214648.png",
+    "imagenes/Pasted image 20260930213354.png",
+    "imagenes/Pasted image 20260930213256.png",
+    "imagenes/Pasted image 20260930134151.png",
+    "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/BASES DE DATOS/TALLERES/Taller.md",
+    "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/BASES DE DATOS/TALLERES/Taller 4 - Joins.md",
+    "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/BASES DE DATOS/TALLERES",
+    "NOTAS_WALTER/INGLES/VOCABULARY.md",
+    "NOTAS_WALTER/INGLES/SONGS.md",
+    "NOTAS_WALTER/INGLES/GUIA DE ESTUDIO.md",
+    "NOTAS_WALTER/INGLES/A1/A1 - KNOWLEDGE.md",
+    "NOTAS_WALTER/INGLES/A1",
+    "NOTAS_WALTER/ESTUDIO PERSONAL/ESTUDIO PERSONAL - COMO APRENDER Y RETENER.md",
+    "NOTAS_WALTER/ESTUDIO PERSONAL",
+    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/LABORATORIOS DE EMPLEABILIDAD/LABORATORIO.md",
+    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/LABORATORIOS DE EMPLEABILIDAD",
+    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/EMPLEABILIDAD REUNIONES 1 A 1.md",
+    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/EMPLEABILIDAD.md",
+    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/PREPARACION PARA ENTREVISTA TECNICA.md",
+    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/Correccion 3 de la hoja de vida.md",
+    "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/EMPLEABILIDAD - PORTAFOLIO/PREPARACION PARA ENTREVISTA TECNICA.md",
+    "imagenes/Pasted image 20260924222833.png",
+    "Untitled 4.md",
+    "NOTAS_WALTER/SALESFORCE/SALESFORCE.md",
+    "NOTAS_WALTER/SALESFORCE",
+    "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/IA - INTELIGENCIA ARTIFICIAL/RECOMENDACIONES.md",
+    "NOTAS_WALTER/GUIAS DE MANTENIMIENTO/MANTENIMIENTO  - TORRE.md",
+    "NOTAS_WALTER/GUIAS DE MANTENIMIENTO",
+    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/Preparacion para Empleo.md",
+    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/PORTAFOLIOS.md",
+    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO/Entrevistas Tecnicas.md",
+    "NOTAS_WALTER/EMPLEABILIDAD - PORTAFOLIO",
+    "NOTAS_WALTER/PROGRAMACION/BOOTCAMP/BASES DE DATOS/Bases de datos.md",
+    "imagenes/Pasted image 20260916144106.png",
+    "NOTAS_WALTER/PROGRAMACION/SWAGGER",
+    "NOTAS_WALTER/PROGRAMACION/PROYECTO INTEGRADOR/PROYECTO INDIVIDUAL"
+  ]
+}
