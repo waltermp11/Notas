@@ -14,3 +14,7 @@ Probando sincronia
 
 **No tengo conocimiento que es saleforce**
 
+
+
+*Aca podemos ver cuanto se demora la sincronica 😅*
+
