@@ -18,3 +18,7 @@ Probando sincronia
 
 *Aca podemos ver cuanto se demora la sincronica 😅*
 
+Ahora desde la tablet quiero ver cuanto se demora para que tenga la sincronica en el PC
+
+# Aca vemos como se comporta con la tablet al mismo tiempo.
+
