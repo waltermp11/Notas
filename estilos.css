@@ -1,0 +1,107 @@
+/* ===================================================
+   CONFIGURACIÓN MINIMALISTA FONDO BLANCO PARA OBSIDIAN
+   =================================================== */
+
+body.theme-light {
+    /* Fondo principal y tipo de letra general */
+    --background-primary: #ffffff;
+    --background-secondary: #f8f9fa;
+    --font-text: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --line-height-normal: 1.45;
+}
+
+/* ---------------------------------------------------
+   1. TÍTULOS EN TONOS DE AZUL
+   --------------------------------------------------- */
+.cm-header-1, .markdown-rendered h1 {
+    color: #0052cc !important;
+    font-weight: 700 !important;
+    font-size: 1.8em !important;
+    margin-top: 1em !important;
+    margin-bottom: 0.3em !important;
+}
+
+.cm-header-2, .markdown-rendered h2 {
+    color: #0066ff !important;
+    font-weight: 650 !important;
+    font-size: 1.5em !important;
+    margin-top: 0.9em !important;
+    margin-bottom: 0.25em !important;
+}
+
+.cm-header-3, .markdown-rendered h3 {
+    color: #2684ff !important;
+    font-weight: 600 !important;
+    font-size: 1.25em !important;
+    margin-top: 0.8em !important;
+    margin-bottom: 0.2em !important;
+}
+
+.cm-header-4, .markdown-rendered h4,
+.cm-header-5, .markdown-rendered h5,
+.cm-header-6, .markdown-rendered h6 {
+    color: #4c9aff !important;
+    font-weight: 600 !important;
+    margin-top: 0.7em !important;
+    margin-bottom: 0.2em !important;
+}
+
+/* ---------------------------------------------------
+   2. RESALTADOR NARANJA (==texto==)
+   --------------------------------------------------- */
+.cm-highlight, mark {
+    background-color: #ffe8d6 !important; /* Naranja suave de fondo */
+    color: #d9534f !important;            /* Texto naranja oscuro/cálido */
+    padding: 0.1em 0.3em !important;
+    border-radius: 4px !important;
+    border-bottom: 2px solid #ff922b !important;
+}
+
+/* ---------------------------------------------------
+   3. VIÑETAS / LISTAS MINIMALISTAS Y COMPACTAS
+   --------------------------------------------------- */
+/* Viñetas en color negro profundo */
+.markdown-rendered ul li::marker,
+.cm-formatting-list-bullet {
+    color: #000000 !important;
+}
+
+/* Reducir espacio vertical entre elementos de lista */
+.markdown-rendered ul, 
+.markdown-rendered ol,
+.cm-line {
+    margin-top: 0px !important;
+    margin-bottom: 2px !important;
+}
+
+.markdown-rendered li {
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+/* Ajuste de listas anidadas */
+.markdown-rendered ul ul, 
+.markdown-rendered ol ol {
+    margin-top: 1px !important;
+    margin-bottom: 1px !important;
+}
+
+/* ---------------------------------------------------
+   4. DETALLES DE LECTURA MINIMALISTA
+   --------------------------------------------------- */
+/* Citas / Blockquotes compactas */
+.markdown-rendered blockquote {
+    border-left: 3px solid #0066ff !important;
+    background-color: #f4f7fa !important;
+    color: #333333 !important;
+    padding: 6px 12px !important;
+    margin: 8px 0 !important;
+}
+
+/* Negritas legibles */
+strong, .cm-strong {
+    color: #111111 !important;
+    font-weight: 650 !important;
+}
