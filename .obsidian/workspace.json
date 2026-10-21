@@ -142,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Walter Notes/NOTAS_WALTER/PERSONAL/IGLESIA/MVE REUNIONES/REUNIONES DE DIRECTORES DE MVE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -204,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abb14572d47017b0",
+  "active": "9dd5666c0323e5f4",
   "lastOpenFiles": [
     "Walter Notes/NOTAS_WALTER 1/PROGRAMACION/BOOTCAMP/PROYECTO INTEGRADOR/PROYECTO INDIVIDUAL/PROYECTO INDIVIDUAL.md",
     "Walter Notes/NOTAS_WALTER 1/PROGRAMACION/BOOTCAMP/PROYECTO INTEGRADOR/PROYECTO INDIVIDUAL/explicacion codigo ToDo.md",
