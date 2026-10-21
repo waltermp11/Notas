@@ -1,2 +1,0 @@
-Que entendemos por saleforce?
-
