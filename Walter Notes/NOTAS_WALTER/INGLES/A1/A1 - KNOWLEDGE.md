@@ -133,13 +133,13 @@ Tengo que entender que son objetos, seres o cosas que **SE PUEDEN CONTAR POR UNI
 
 ## EXAMPLES FOR COUNTABLES
 
-<mark class="verde">SINGULAR</mark>
+<mark style="background: #BBFABBA6;">singular examples:</mark>
 
 - A car
 - An apple
 - A book
 
-<mark class="verde">PLURAL</mark>
+<mark style="background: #FFF3A3A6;">Plural examples:</mark>
 
 - Three cars --> We add s in the object.
 - Five apples --> s
