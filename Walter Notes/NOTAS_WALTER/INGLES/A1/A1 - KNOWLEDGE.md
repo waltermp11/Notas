@@ -226,17 +226,20 @@ Depends if the noun its **accountant** (*Contable *) or not.
 ****
 
 # Artículos y Pronombres / Articles and Pronouns
+[[#CONTENT TABLE]]
 
 
 ## ARTICLES
 In English language We have two articles 
 
-- <mark style="background: #BBFABBA6;">defined</mark>
-- <mark style="background: #FFB8EBA6;">undefined</mark>
+- <mark style="background: #BBFABBA6;">defined</mark> [[#|]]
+- <mark style="background: #FFB8EBA6;">undefined</mark> [[#UNDEFINED]]
 
 Let's get started with they <mark style="background: #BBFABBA6;">DEFINED</mark> articles
 
-## DEFINED
+
+
+## UNDEFINED
 In this case, We have two options A / An
 
 - <mark style="background: #FFB8EBA6;">A </mark>:
@@ -258,4 +261,12 @@ In this case, We have two options A / An
 - An Elephant
 - An Apple
 - An hours
+
+
+## DEFINED
+We use this to be specific with they things, both of persons know about they topic/ theme, We use they article **<mark style="background: #BBFABBA6;">The</mark>**
+
+<mark style="background: #FFF3A3A6;">The</mark> --> "El, la, los, las"
+- Use for specific case.
+
 
