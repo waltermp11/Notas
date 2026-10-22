@@ -227,6 +227,8 @@ Depends if the noun its **accountant** (*Contable *) or not.
 
 # Artículos y Pronombres / Articles and Pronouns
 
+
+## ARTICLES
 In English language We have two articles 
 
 - <mark style="background: #BBFABBA6;">defined</mark>
@@ -248,5 +250,12 @@ In this case, We have two options A / An
 - A pair of shoes
 
 
-- AN:
-	We use this
+- <mark style="background: #ADCCFFA6;">AN</mark>:
+	We use this when they next Word starts with a vowel.
+
+	<mark style="background: #ADCCFFA6;">Examples:</mark>
+
+- An Elephant
+- An Apple
+- An hours
+
