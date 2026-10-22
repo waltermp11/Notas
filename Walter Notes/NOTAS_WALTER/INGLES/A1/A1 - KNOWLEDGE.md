@@ -184,6 +184,8 @@ Now, I should try to form sentences yo understand  examples for  countables.
 	- Money
 	- **furniture -- muebles**
 	- **Luggage -- equipaje** 🛍️👜
+	- ![[Pasted image 20261021192614.png | 200]]
+		- ![[Pasted image 20261021192526.png |200 x200]]
 	- Bread
 
 
