@@ -196,15 +196,15 @@ We can express  *mucho como  --> <mark class="verde">much / a lot of*</mark>
 
 
 ****
-## Cuantificadores  --> Quantifiers
+# Cuantificadores  --> Quantifiers
 
 Depends if the noun its **accountant** (*Contable *) or not.
 
 
-- How many -->  countable ✅
+- <mark style="background: #BBFABBA6;">How many</mark> -->  countable ✅
 	- How many brother's do you have?
 
-- how much --> uncountable ❌
+- <mark style="background: #ADCCFFA6;">how much -</mark>-> uncountable ❌
 	- How much money I **owe** ( *<mark class="naranja">deber --> to oowe</mark>*) you? 
 
 
