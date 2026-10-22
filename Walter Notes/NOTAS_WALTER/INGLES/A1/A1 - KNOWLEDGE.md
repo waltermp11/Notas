@@ -184,14 +184,13 @@ Now, I should try to form sentences yo understand  examples for  countables.
 	- Money
 	- **furniture -- muebles**
 	- **Luggage -- equipaje** 🛍️👜
-	- ![[Pasted image 20261021192614.png | 200]]
-		- ![[Pasted image 20261021192526.png |200 x200]]
+		![[Pasted image 20261021192927.png |200 ]]
+	
 	- Bread
 
 
 
-<mark class="naranja">IMPORTANT</mark>
-
+<mark style="background: #FFB8EBA6;">IMPORTANT</mark>
 We can express  *mucho como  --> <mark class="verde">much / a lot of*</mark>
 
 ![[Pasted image 20261004124710.png]]
