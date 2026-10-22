@@ -155,8 +155,8 @@ Now, I should try to form sentences yo understand  examples for  countables.
 ## UNCOUNTABLE NOUNS ( *sustantivo --> city, dog, freedom*)
 
 - Conceptos abstractos --> abstract concepts.
-- Liquidos o elementos
-- **NO SE PUEDEN CONTAR UNO POR UNO** 
+- Liquidos o elementos --> <mark style="background: #BBFABBA6;">Liquid or Drinks</mark>,
+- **<mark style="background: #ADCCFFA6;">NO SE PUEDEN CONTAR UNO POR UNO** </mark>
 - Se consideran como un todo ( <mark class="verde">Water, rice, beans</mark>).
 - We also need a measure to apply --> containers
 
@@ -171,9 +171,11 @@ Now, I should try to form sentences yo understand  examples for  countables.
 
 ## EXAMPLES AND COMMON CATEGORIES
 
-- Liquidos y gases->  ( water, milk, coffe, air)
-- granos, polvos y masa --> rice, sugar, flour ( harina), salt.
-- Conceptos abtractos y sentimientos
+- <mark style="background: #FFB86CA6;">Liquidos y gases</mark>->  ( water, milk, coffe, air)
+- <mark style="background: #BBFABBA6;">granos, polvos y masa</mark> --> rice, sugar, flour ( harina), salt.
+- <mark style="background: #ADCCFFA6;">Conceptos abtractos y sentimientos</mark>:
+
+	<mark style="background: #BBFABBA6;">Examples</mark>:
 
 	- **love**
 	- information
