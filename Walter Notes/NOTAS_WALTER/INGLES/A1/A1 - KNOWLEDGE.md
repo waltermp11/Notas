@@ -223,4 +223,15 @@ Depends if the noun its **accountant** (*Contable *) or not.
 
 
 
+****
 
+# Artículos y Pronombres / Articles and Pronouns
+
+In English language We have two articles 
+
+- <mark style="background: #BBFABBA6;">defined</mark>
+- <mark style="background: #FFB8EBA6;">undefined</mark>
+
+Let's get started with they <mark style="background: #BBFABBA6;">DEFINED</mark> articles
+
+## DEFINED
