@@ -196,7 +196,7 @@ We can express  *mucho como  --> <mark class="verde">much / a lot of*</mark>
 
 
 ****
-# Cuantificadores  --> Quantifiers
+## Cuantificadores  --> Quantifiers
 
 Depends if the noun its **accountant** (*Contable *) or not.
 
