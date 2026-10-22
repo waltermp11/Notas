@@ -235,3 +235,18 @@ In English language We have two articles
 Let's get started with they <mark style="background: #BBFABBA6;">DEFINED</mark> articles
 
 ## DEFINED
+In this case, We have two options A / An
+
+- <mark style="background: #FFB8EBA6;">A </mark>:
+	We use this before they next Word starts with a consonant.
+	
+<mark style="background: #FFB8EBA6;">Examples:</mark>
+
+- A book
+- A Car
+- A Tablet
+- A pair of shoes
+
+
+- AN:
+	We use this
