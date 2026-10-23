@@ -37,3 +37,8 @@ La idea es plasmar las ideas o pensamientos que se vengan en la cabeza a la hora
 ****
 
 # Octubre 23 del 2026
+- Tengo miedo de las cosas nuevas en mi vida.
+- Tengo miedo a no lograr las cosas que quiero hacer.
+- Tengo miedo de no entender ingles...
+- Tengo miedo a no mejorar en todo lo que me propongo.
+- 
