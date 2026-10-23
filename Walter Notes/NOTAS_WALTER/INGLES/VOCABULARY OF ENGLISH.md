@@ -2,6 +2,8 @@
 
 - <mark class="verde">summit</mark> --> la cima, la cumbre   ( *zuumet*)
 - <mark class="naranja">blunder</mark> --> metida de pata 🦵, un error fatal
+	- My biggets blunder wasa leavinf a question blank.
+	
 - <mark class="verde">rolling out </mark>--> desplegar, lanzar o implementar
 - <mark class="naranja">unbearable</mark> --> insoportable, inaguantable
 	- The loud mousic coming from the neighbour's stereo at 3 in the morning was **unbearable**
@@ -15,7 +17,7 @@
 
 
 
-VOCABULARY - LYRICS
-- digging
-- jive
-- 
+### VOCABULARY - LYRICS
+- digging --  excavar ( excavacion)
+- jive -- 
+- pissing -- meando ( chichi)
