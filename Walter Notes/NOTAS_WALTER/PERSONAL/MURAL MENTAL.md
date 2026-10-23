@@ -31,3 +31,9 @@ La idea es plasmar las ideas o pensamientos que se vengan en la cabeza a la hora
 
 #### **MANTENER FOCO EN LAS RESPONSABILIDADES**
 
+
+
+
+****
+
+# Octubre 23 del 2026
