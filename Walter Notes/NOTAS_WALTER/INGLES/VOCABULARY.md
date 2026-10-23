@@ -8,8 +8,7 @@
 - <mark class="verde">Placing</mark> --> Posicionando 🧘‍♂️
 - <mark class="naranja">cruising</mark>--> Navegando, buscando? llike searching?
 - <mark class="verde">warp</mark> --> deformarse, the same name  of the terminal that I use
-- 
-	![[Pasted image 20260930220500.png|100]]
+		![[Pasted image 20260930220500.png|100]]
 
 
 
