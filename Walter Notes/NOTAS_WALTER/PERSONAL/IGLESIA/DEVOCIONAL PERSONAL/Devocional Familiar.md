@@ -124,3 +124,8 @@ A la reconciliación con los hermanos, los hijos de Dios. Todos aquellos que cre
 
 
 https://bible.com/bible/176/mat.6.3-4.TLA
+
+
+
+****
+# Octubre 22 del 2026
