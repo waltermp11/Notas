@@ -129,3 +129,24 @@ https://bible.com/bible/176/mat.6.3-4.TLA
 
 ****
 # Octubre 22 del 2026
+
+## " Verdadero discipulos" - Mateo 7: 21-23
+
+- no todo el que me llama Señor señor entrara en el reino de los cielos, o sea, que no solo con orar nada mas no vamos a entrar al reino de los cielos.
+
+#### <mark style="background: #BBFABBA6;">HACE UNA ACLARACION</mark>
+
+- <mark style="background: #ADCCFFA6;">Solo entraran aquellos que hacen la voluntad del Padre</mark>, pero, ¿Que es la vol untad del Padre?
+
+
+<mark style="background: #BBFABBA6;">
+QUE ES HACER LA VOLUNTAD?</mark>
+Hacer la voluntad del Señor **significa** obedecer lo, sus mandamientos (*Las leyes*) y esos mismos son los mismos que le aman.
+
+<mark style="background: #FFF3A3A6;">DONDE ESTAN?</mark>
+Estan en su palabra, en lo que aprendemos en intimidad, en su palabra, claramente nosotros tenemos que pedirle REVELACION AL ESPIRITU SANTO.
+
+Yo que tengo a Jesus en mi corazon, lo apago con mi pecado, no dejo que tenga el control de mi vida.
+
++ <mark style="background: #FFB86CA6;">Mas Jesus y menos yo --> dejando la carnalidad.</mark>
+
