@@ -13,3 +13,9 @@
 
 
 
+
+
+VOCABULARY - LYRICS
+- digging
+- jive
+- 
