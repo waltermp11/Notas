@@ -155,3 +155,17 @@ ahora, quiero experimentar una limpieza como lo dice en el salmo 51:7
 
 
 Que tengo que hacer_
+
+
+
+
+****
+
+# Octubre 23 del 2026
+Que es normal en mi vida? que adiccion tengoy  me ha desviado del cristianismo? por que me enojo facil? por que cuestiono todo? por que justifico las cosas que me pasan?
+
+- <mark style="background: #FFB86CA6;">La verdad tengo demasiadas preguntas sobre como soy.</mark>
+
+Hoy es mi ultimo viernes en Colombia ... Y pues si tengo algo de nostalgia, quiero tener todo ordenado, quiero mejorar mi ingles, quiero entender el proposito del Padre en esto.
+
+
