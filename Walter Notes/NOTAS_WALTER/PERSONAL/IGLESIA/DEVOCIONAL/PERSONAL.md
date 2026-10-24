@@ -216,3 +216,10 @@ Ya me despedi de algunos de la iglesia, puede algunos no los vea en mucho tiempo
 </mark>
 
 
+## MI LIBERTADOR
+Aquel que pago todo por mi, donde yo era el que tenia que estar crucificado por mi maldad. Donde soy libre, de todas cadenas de opresion, de todo pensamiento que me tiene cautivo o me roba la paz.
+
+- <mark style="background: #ADCCFFA6;">¿Quien en la tierra haria eso?</mark>
+	No hay uno, no hay nadie, solo uno quien fue y quien vendra, porque el volvera. Maranatha.
+
+
