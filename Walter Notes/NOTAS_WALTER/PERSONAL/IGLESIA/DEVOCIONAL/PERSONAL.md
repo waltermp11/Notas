@@ -212,3 +212,7 @@ Ya me despedi de algunos de la iglesia, puede algunos no los vea en mucho tiempo
 - Gracias Padre, porque aun siento tu abrazo tu calor.
 
 
+<mark style="background: #BBFABBA6;">Enamorarme Padre, quita todo hombre orgulloso y haz el hijo que tu quieres que yo sea. Porque humillado ante ti y de frente ante el mundo.
+</mark>
+
+
