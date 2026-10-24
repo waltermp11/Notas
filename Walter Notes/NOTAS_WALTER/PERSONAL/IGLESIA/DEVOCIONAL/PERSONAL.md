@@ -168,7 +168,11 @@ Que es normal en mi vida? que adiccion tengoy  me ha desviado del cristianismo? 
 
 Hoy es mi ultimo viernes en Colombia ... Y pues si tengo algo de nostalgia, quiero tener todo ordenado, quiero mejorar mi ingles, quiero entender el proposito del Padre en esto.
 
-#### Entrego mis pecados, mi viejo hombre, para poder estar en santidad y ver a Dios.
+#### <mark style="background: #BBFABBA6;">Entrego mis pecados, mi viejo hombre, para poder estar en santidad y ver a Dios, mi papá</mark>.
 
-
+- Entrego mi ira
+- adicciones
+- pesamientos negativos
+- Procastinacion.
+- Una vida muerta he tenido,,, pero tu Jesus dame vida, porque el mundo me la ha robado y mi falta de criterio y compromiso, me ha alejado.
 
