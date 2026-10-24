@@ -199,3 +199,16 @@ YO he sido infiel a mi Padre Celestial porque ha etado mi corazon en otras cosas
 
 - <mark style="background: #FFB8EBA6;"> Lucas 15:20 </mark>
 	"Y levantandose, vino a su Padre. Y cuando aun estaba lejos, lo vio su padre, y fue movido a misericordia, y corrio, y se echo sobre su cuello y le beso"
+
+
+
+
+
+
+****
+# Octubre 24 del 2026
+Ya me despedi de algunos de la iglesia, puede algunos no los vea en mucho tiempo, no se, pero lo que importa es que me senti y me siento amado de ver tantas personas, solo por algo mio. 
+
+- Gracias Padre, porque aun siento tu abrazo tu calor.
+
+
