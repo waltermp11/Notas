@@ -168,4 +168,7 @@ Que es normal en mi vida? que adiccion tengoy  me ha desviado del cristianismo? 
 
 Hoy es mi ultimo viernes en Colombia ... Y pues si tengo algo de nostalgia, quiero tener todo ordenado, quiero mejorar mi ingles, quiero entender el proposito del Padre en esto.
 
+#### Entrego mis pecados, mi viejo hombre, para poder estar en santidad y ver a Dios.
+
+
 
