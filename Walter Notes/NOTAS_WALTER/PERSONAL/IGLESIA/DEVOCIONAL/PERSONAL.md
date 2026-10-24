@@ -179,16 +179,23 @@ Hoy es mi ultimo viernes en Colombia ... Y pues si tengo algo de nostalgia, quie
 
 ### Malaquias 2  "Advertencia a los Sacerdores"
 
-- he sido sacerdote, como levita, pero no he estado en laas advertencias, pero aun es tarde?
-- He hecho caer a gente en pecado como a Manuela, pero aun es tarde padre de acercarme?
-
+- <mark style="background: #FFB8EBA6;">he sido sacerdote, como levita, pero no he estado en laas advertencias, pero aun es tarde?</mark>
+	- No, no es tarde.
+- <mark style="background: #FFB8EBA6;">He hecho caer a gente en pecado como a Manuela, pero aun es tarde padre de acercarme?</mark>
+		No, aun no es tarde, porque como me dijo en lucas 15:20
 
 <mark style="background: #FFB86CA6;">Permanecer fiel a mis esposa de mi juventud</mark>, que sucede? me estas afirmando de casarme con Manu? *quiero una respuesta directa Espiritu santo.*
 
 YO he sido infiel a mi Padre Celestial porque ha etado mi corazon en otras cosas del mundo, el valorant, el juego, el dinero y no he hecho las cosas que tengo que hacer correctamente.
 
 
-<mark style="background: #ADCCFFA6;">PENDIENTES</mark>
-- 75000 Diezmo MVE
-- 250000 de Mouse
-- 100000 de la tienda de MVE
+364- 369
+
+
+- <mark style="background: #BBFABBA6;">Oseas 14:2 -- Arrepentimiento impenitencia</mark>
+	"Llevad con vosotros palabras de suplica, y volved a Jehova, y decidle; Quita toda iniquidad,, y acepta el bien,, y te ofreceremos la ofrenda de nuestros labios"
+
+## Parabola del hijo Prodigo.
+
+-<mark style="background: #FFB8EBA6;"> Lucas 15:20 </mark>
+	"Y levantandose, vino a su Padre. Y cuando aun estaba lejos, lo vio su padre, y fue movido a misericordia, y corrio, y se echo sobre su cuello y le beso"
