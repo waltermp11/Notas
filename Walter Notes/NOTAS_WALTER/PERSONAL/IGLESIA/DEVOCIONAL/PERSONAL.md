@@ -197,5 +197,5 @@ YO he sido infiel a mi Padre Celestial porque ha etado mi corazon en otras cosas
 
 ## Parabola del hijo Prodigo.
 
--<mark style="background: #FFB8EBA6;"> Lucas 15:20 </mark>
+- <mark style="background: #FFB8EBA6;"> Lucas 15:20 </mark>
 	"Y levantandose, vino a su Padre. Y cuando aun estaba lejos, lo vio su padre, y fue movido a misericordia, y corrio, y se echo sobre su cuello y le beso"
