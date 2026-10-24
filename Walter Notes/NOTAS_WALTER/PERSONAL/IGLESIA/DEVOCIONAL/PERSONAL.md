@@ -181,4 +181,14 @@ Hoy es mi ultimo viernes en Colombia ... Y pues si tengo algo de nostalgia, quie
 
 - he sido sacerdote, como levita, pero no he estado en laas advertencias, pero aun es tarde?
 - He hecho caer a gente en pecado como a Manuela, pero aun es tarde padre de acercarme?
-- 
+
+
+<mark style="background: #FFB86CA6;">Permanecer fiel a mis esposa de mi juventud</mark>, que sucede? me estas afirmando de casarme con Manu? *quiero una respuesta directa Espiritu santo.*
+
+YO he sido infiel a mi Padre Celestial porque ha etado mi corazon en otras cosas del mundo, el valorant, el juego, el dinero y no he hecho las cosas que tengo que hacer correctamente.
+
+
+<mark style="background: #ADCCFFA6;">PENDIENTES</mark>
+- 75000 Diezmo MVE
+- 250000 de Mouse
+- 100000 de la tienda de MVE
