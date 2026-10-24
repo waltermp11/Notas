@@ -177,4 +177,8 @@ Hoy es mi ultimo viernes en Colombia ... Y pues si tengo algo de nostalgia, quie
 - Una vida muerta he tenido,,, pero tu Jesus dame vida, porque el mundo me la ha robado y mi falta de criterio y compromiso, me ha alejado.
 
 
-Malaquias 4:3
+### Malaquias 2  "Advertencia a los Sacerdores"
+
+- he sido sacerdote, como levita, pero no he estado en laas advertencias, pero aun es tarde?
+- He hecho caer a gente en pecado como a Manuela, pero aun es tarde padre de acercarme?
+- 
