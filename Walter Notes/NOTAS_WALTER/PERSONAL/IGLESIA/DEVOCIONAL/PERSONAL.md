@@ -176,3 +176,5 @@ Hoy es mi ultimo viernes en Colombia ... Y pues si tengo algo de nostalgia, quie
 - Procastinacion.
 - Una vida muerta he tenido,,, pero tu Jesus dame vida, porque el mundo me la ha robado y mi falta de criterio y compromiso, me ha alejado.
 
+
+Malaquias 4:3
