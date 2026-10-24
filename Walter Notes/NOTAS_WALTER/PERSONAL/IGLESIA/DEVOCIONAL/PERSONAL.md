@@ -223,3 +223,30 @@ Aquel que pago todo por mi, donde yo era el que tenia que estar crucificado por 
 	No hay uno, no hay nadie, solo uno quien fue y quien vendra, porque el volvera. Maranatha.
 
 
+<mark style="background: #FFF3A3A6;">Lucas 15: 8-10 - "Parabola de la moneda perdida</mark>
+"*O que mujer  que tiene 10 dracmas, si pierde una drama, no enciende la lampara, y barre la casa, y busca con diligencia hasta encontrarla? Y cuando la encuentra, reune a sus amigas y vecinas, diciendo: Gozamos conmigo, porque he encontrado la dracmas que habia perdido.
+Asi OS digo que hay gozo delante de los angeles de Dios por un pecador que se arrepiente.*"
+
+
+- <mark style="background: #BBFABBA6;">Dracmas --> moneda
+</mark>
+
+
+1611
+
+- <mark style="background: #FFB8EBA6;">Cuidado con las cosas que tengo</mark>, pero tambien con lo que se me es dado, que me ha dado el Señor? 
+	- Un lugar de honra, un lugar para que yo ministre y que sea EL, el unico merecedor de toda alabanza.
+
+- Me llama a darle importancia lo que se me es dado y tengo. Hacer lo posible para recuperarlo.
+
+
+<mark style="background: #BBFABBA6;">¿ Como es el sentimiento de algo que tenia por perdido y lo encuentro?</mark>
+- Alegria.
+- No tengo mi pensamiento que me roba la paz.
+- Tambien ganas de compartirlo con los cercanos que sabian de la situacion.
+
+Cientificamente, hay mucha dopamina, el estres disminuye y volvemos a recordar que vamos hacer con eso, lo usaremos para bien, para la situacion que venia.
+
+Esa alegria, es la que esta en el cielo, cuando un solo pecador se arrepiente.
+
+
