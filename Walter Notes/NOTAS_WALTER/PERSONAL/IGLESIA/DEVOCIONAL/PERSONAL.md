@@ -223,7 +223,7 @@ Aquel que pago todo por mi, donde yo era el que tenia que estar crucificado por 
 	No hay uno, no hay nadie, solo uno quien fue y quien vendra, porque el volvera. Maranatha.
 
 
-## <mark style="background: #FFF3A3A6;">Lucas 15: 8-10 - "Parabola de la moneda perdida</mark>
+## <mark style="background: #FFF3A3A6;">Lucas 15: 8-10 - "Parabola de la moneda perdida"</mark>
 
 "*O que mujer  que tiene 10 dracmas, si pierde una drama, no enciende la lampara, y barre la casa, y busca con diligencia hasta encontrarla? Y cuando la encuentra, reune a sus amigas y vecinas, diciendo: Gozamos conmigo, porque he encontrado la dracmas que habia perdido.
 Asi OS digo que hay gozo delante de los angeles de Dios por un pecador que se arrepiente.*"
@@ -247,8 +247,10 @@ Asi OS digo que hay gozo delante de los angeles de Dios por un pecador que se ar
 - No tengo mi pensamiento que me roba la paz.
 - Tambien ganas de compartirlo con los cercanos que sabian de la situacion.
 
+
+### Conclusion
 Cientificamente, hay mucha dopamina, el estres disminuye y volvemos a recordar que vamos hacer con eso, lo usaremos para bien, para la situacion que venia.
 
 Esa alegria, es la que esta en el cielo, cuando un solo pecador se arrepiente.
 
-
+Yo como hijo, debo de buscar la santidad, como aquello que al encontrarla me de alegria, paz, gozo, usar la santidad para ver a Dios. Porque el pecado me aparta, apartarme del pecado me acerca al Padre.
