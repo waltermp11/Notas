@@ -223,16 +223,18 @@ Aquel que pago todo por mi, donde yo era el que tenia que estar crucificado por 
 	No hay uno, no hay nadie, solo uno quien fue y quien vendra, porque el volvera. Maranatha.
 
 
-<mark style="background: #FFF3A3A6;">Lucas 15: 8-10 - "Parabola de la moneda perdida</mark>
+## <mark style="background: #FFF3A3A6;">Lucas 15: 8-10 - "Parabola de la moneda perdida</mark>
+
 "*O que mujer  que tiene 10 dracmas, si pierde una drama, no enciende la lampara, y barre la casa, y busca con diligencia hasta encontrarla? Y cuando la encuentra, reune a sus amigas y vecinas, diciendo: Gozamos conmigo, porque he encontrado la dracmas que habia perdido.
 Asi OS digo que hay gozo delante de los angeles de Dios por un pecador que se arrepiente.*"
 
 
 - <mark style="background: #BBFABBA6;">Dracmas --> moneda
 </mark>
+	- Un dracmas era aproximadamente el salario diario de un trabajador capacitado o un soldado. 
+	- Podia comprar comida basica para una familia durante un par de dias
 
-
-1611
+<mark style="background: #BBFABBA6;">1611 -- Gozo ( *Alegria*)</mark>
 
 - <mark style="background: #FFB8EBA6;">Cuidado con las cosas que tengo</mark>, pero tambien con lo que se me es dado, que me ha dado el Señor? 
 	- Un lugar de honra, un lugar para que yo ministre y que sea EL, el unico merecedor de toda alabanza.
