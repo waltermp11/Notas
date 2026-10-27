@@ -254,3 +254,10 @@ Cientificamente, hay mucha dopamina, el estres disminuye y volvemos a recordar q
 Esa alegria, es la que esta en el cielo, cuando un solo pecador se arrepiente.
 
 Yo como hijo, debo de buscar la santidad, como aquello que al encontrarla me de alegria, paz, gozo, usar la santidad para ver a Dios. Porque el pecado me aparta, apartarme del pecado me acerca al Padre.
+
+****
+
+# Octubre 27 del 2026
+El suicidio, las luchas mentales, es algo real, querer cumplir los deseos de la carne.
+
+- <mark style="background: #FFB86CA6;">¿Hay una vida con proposito si no esta Cristo en mi vida?</mark>
