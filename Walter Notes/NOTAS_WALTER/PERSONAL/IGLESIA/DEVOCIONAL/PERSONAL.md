@@ -269,5 +269,19 @@ El suicidio, las luchas mentales, es algo real, querer cumplir los deseos de la 
 ****
 
 # Octubre 28 del 2026
+Buscar direccion para estudiar la palabra, poder leer con intencionalidad, pero guiado por el espiritu santo.
+
+<mark style="background: #FFF3A3A6;">Actualmente</mark> --> es mi ultimo miercoles, solo le pido a Dios junto al espiritu santo que me de las fuerzas para continuar y el orden para hacer las cosas.
+
+
+<mark style="background: #BBFABBA6;">ENTREGO LOS PENSAMIENTOS</mark>
+- Pesimistas.
+- negativos
+- imposibles como de no aprender o encontrar una oportunidad.
+- Mi actitud.
+- Lo que me quita la paz.
+- La procastinacion del devocional.
+
+
 
 
