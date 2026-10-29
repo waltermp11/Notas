@@ -284,3 +284,5 @@ Buscar direccion para estudiar la palabra, poder leer con intencionalidad, pero 
 
 
 ## Marcos  1: 1-8  "Juan Prepara el camino"
+- Que escribio el profeta Isaias?
+- 
