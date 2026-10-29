@@ -283,5 +283,4 @@ Buscar direccion para estudiar la palabra, poder leer con intencionalidad, pero 
 - La procastinacion del devocional.
 
 
-
-
+## Marcos  1: 1-8  "Juan Prepara el camino"
