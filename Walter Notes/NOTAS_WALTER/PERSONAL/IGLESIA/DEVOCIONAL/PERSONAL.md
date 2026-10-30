@@ -285,4 +285,12 @@ Buscar direccion para estudiar la palabra, poder leer con intencionalidad, pero 
 
 ## Marcos  1: 1-8  "Juan Prepara el camino"
 - Que escribio el profeta Isaias?
-- 
+-
+
+
+
+
+****
+
+# Octubre 29 del 2026
+Me voy de Colombia, tengo la bendicion de irme a trabajar, pero sobre todo a crecer. Ser el Levitha y empezar un proceso grande en mi vida, de crecer, me voy con el corazon contento, lleno, feliz, con algo de nostalgia, pero con la certeza
