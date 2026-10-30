@@ -293,4 +293,13 @@ Buscar direccion para estudiar la palabra, poder leer con intencionalidad, pero 
 ****
 
 # Octubre 29 del 2026
-Me voy de Colombia, tengo la bendicion de irme a trabajar, pero sobre todo a crecer. Ser el Levitha y empezar un proceso grande en mi vida, de crecer, me voy con el corazon contento, lleno, feliz, con algo de nostalgia, pero con la certeza de que el Padre me lleva con un proposito mas grande.marimariana
+Me voy de Colombia, tengo la bendicion de irme a trabajar, pero sobre todo a crecer. Ser el Levitha y empezar un proceso grande en mi vida, de crecer, me voy con el corazon contento, lleno, feliz, con algo de nostalgia, pero con la certeza de que el Padre me lleva con un proposito mas grande.
+
+
+## <mark style="background: #BBFABBA6;">Promesas</mark>
+
+- Salmo 119 :71
+	" *Me hizo bien haber sido afligido porque asi llegue a conocer tus decretos*"
+- Salmo 48 :14
+
+
