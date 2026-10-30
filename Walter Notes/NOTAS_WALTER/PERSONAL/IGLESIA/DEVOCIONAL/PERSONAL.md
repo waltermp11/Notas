@@ -301,5 +301,5 @@ Me voy de Colombia, tengo la bendicion de irme a trabajar, pero sobre todo a cre
 - Salmo 119 :71
 	" *Me hizo bien haber sido afligido porque asi llegue a conocer tus decretos*"
 - Salmo 48 :14
-
+	"*Este Dios es nuestr Dios eterno! ¡El nos guiara para siempre*"
 
