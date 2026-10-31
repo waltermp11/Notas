@@ -304,3 +304,8 @@ Me voy de Colombia, tengo la bendicion de irme a trabajar, pero sobre todo a cre
 	"*Este Dios es nuestr Dios eterno! ¡El nos guiara para siempre*"
 
 
+
+
+# Octubre 30 del 2026
+Hoy cumple años mi sobrina, era necesario irme para la union de ellos... Quien diria? 
+El señor re
