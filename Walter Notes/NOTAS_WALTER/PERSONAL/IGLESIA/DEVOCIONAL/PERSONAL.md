@@ -310,3 +310,21 @@ Me voy de Colombia, tengo la bendicion de irme a trabajar, pero sobre todo a cre
 Hoy cumple años mi sobrina, era necesario irme para la union de ellos... Quien diria? 
 El señor nuevamente mostrandome que El es el unico que transforma, cambia y que yo no soy ningun salvador.
 
+
+
+### Marcos 2 : 1-12 "*Jesus sana a un paralitico*"
+- v5. <mark style="background: #FFF3A3A6;">Al ver la fe de ellos, Jesus le dijo al paralitico "Hijo mio, tus pecados son perdonados"</mark>
+	Pero tambien... Algo que impacta, es que donde se estaba hospedando Jesus, estaba llena, todos sabian que era el Mesias.
+
+
+<mark style="background: #BBFABBA6;">PARA QUE TANTAS PERSONAS</mark>
+- La verdad deseaban o sabian que actuaria, asi deberia ser, yo deberia ser de esos primeros encima de Jesus.
+- Tambien en medio de esas personas, habian unas que  NO COMPARTIAN, NO LO RECONOCIAN COMO EL MESIAS, V7
+
+<mark style="background: #ADCCFFA6;">
+PERO JESUS YA SABIA QUE PENSABAN </mark>
+- Estos tenian un cuestionamiento de  en su corazon.
+- Desde la simplesa, le ayudo al paralitico, porque era mas facil decirle que sus pecados son perdonados?
+
+
+
