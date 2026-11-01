@@ -332,4 +332,5 @@ PERO JESUS YA SABIA QUE PENSABAN </mark>
 ****
 
 # Noviembre 1 del 2026
-Permiteme
+Permiteme tenerte como prioridad todos los dias de mi vida, que sea yo agradecido, que en mi Padre tenga entendimiento señor, de conocerte a ti.
+
