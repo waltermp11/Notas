@@ -334,3 +334,7 @@ PERO JESUS YA SABIA QUE PENSABAN </mark>
 # Noviembre 1 del 2026
 Permiteme tenerte como prioridad todos los dias de mi vida, que sea yo agradecido, que en mi Padre tenga entendimiento señor, de conocerte a ti.
 
+- <mark style="background: #BBFABBA6;">Espiritu santo</mark>, guiame para todo aquello donde yo no sepa, o sea, siempre en todo momento.
+- <mark style="background: #FFF3A3A6;">Padre</mark>, recuerdame que separado de ti no soy nadie.
+- <mark style="background: #ADCCFFA6;">Entrego mi corazon</mark>, mis pensamientos que me tienen cautivo, muriendo al viejo hombre para crecer en ti.
+
